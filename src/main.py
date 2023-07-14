@@ -22,6 +22,7 @@ def main():
 
     model.save("./model_saved/classifier_hf.h5")
 
+main()
 
 
 
