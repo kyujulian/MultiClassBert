@@ -20,6 +20,8 @@ def main():
     model = build_model(transformer_layer)
     train_model(train_dataset, dev_dataset, model)
 
+    model.save("./model_saved/classifier_hf.h5")
+
 
 
 
