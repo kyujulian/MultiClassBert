@@ -1,238 +1,550 @@
-,index,Topic,Sentiment,TweetId,TweetDate,TweetText,Sentiment
-2062,1218,google,1,126492628152889344,Wed Oct 19 02:59:27 +0000 2011,"iphone users i reaaly feel sorry for you after i saw ice-cream sandwich #Android today, #Google #apple #Android #iPhone",1
-2063,1158,google,1,126502014560649216,Wed Oct 19 03:36:45 +0000 2011,#google is my bff rite about now!,1
-2064,1415,microsoft,1,126583935139454976,Wed Oct 19 09:02:17 +0000 2011,#Microsoft details Search improvements in #Windows 8 Start Screen http://t.co/f6AztiaD,1
-2065,2076,google,2,126500021863579648,Wed Oct 19 03:28:50 +0000 2011,Que mierda le pasa a #FOTA que no me quiere traer #IceCreamSandwich? #Google #Android @SamsungArg #GalaxyS2 ;-),2
-2066,1527,microsoft,0,126595347198902272,Wed Oct 19 09:47:37 +0000 2011,"Wilth #Accessibility mode on in #SharePoint 2010, it seems that #Workflows sometimes do not start automatically #SP2010 #Workflow #Microsoft",0
-2067,2234,google,2,126489808913694720,Wed Oct 19 02:48:15 +0000 2011,#google #motorola Motorola-Übernahme durch Google: Justizministerium fordert Informationen: Mitte August wurde b... http://t.co/C5nZWALj,2
-2068,1300,google,0,126503098071007232,Wed Oct 19 03:41:03 +0000 2011,"#Google introduce new Android tablet called 'Ice Cream Sandwich'? I'm a #Singaporean, and I'm (very) confused.",0
-2069,2194,google,2,126491723353427968,Wed Oct 19 02:55:51 +0000 2011,"Google a pas innové avec un tamagochi, ils ont tout compris #google #nexusprime",2
-2070,1603,twitter,1,126867350476697601,Thu Oct 20 03:48:28 +0000 2011,#twitter addict :),1
-2071,160,apple,3,126068964685135872,Mon Oct 17 22:55:58 +0000 2011,@apple must be launching a #searchengine - imminent surely. #AppleSearch #AppleCore #bigapple haha! Please be the latter,3
-2072,1704,apple,2,126360606042374144,Tue Oct 18 18:14:50 +0000 2011,@bassponton @iphoneclub @kpn @iphone @apple ja. En dan heb je voor dat geld ook nog een datalimiet....,2
-2073,956,apple,0,125799384976863232,Mon Oct 17 05:04:45 +0000 2011,Thanks @apple for an OS update that has only succesfully bricked my iPod.,0
-2074,2230,google,2,126489907349831680,Wed Oct 19 02:48:38 +0000 2011,直擊！【@Phone雜誌 / @微博通訊社 19日訊】谷歌+三星智能手機發布會http://t.co/SFBLWqjg @LK154: #Google 跟 #Samsung 正式發佈 #Galaxy #Nexus… 手機規格如下：http://t.co/MyIcSKXW #ICS,2
-2075,877,apple,0,126072901144281088,Mon Oct 17 23:11:36 +0000 2011,Had ma Ipas not 24 hours an I jailbroke it...now its SHAGGED itunes won't letme restore it @apple SYM!!!!,0
-2076,1919,google,2,126526017660653568,Wed Oct 19 05:12:08 +0000 2011,Usagi Yojimbo RPG Core Rules pdf ebook:  http://t.co/UVYJxGsV #google,2
-2077,1884,google,2,126530054023946240,Wed Oct 19 05:28:10 +0000 2011,"Už vím, jaký bude můj příští mobil! http://t.co/UzI5aEXa #Google #Android #GalaxyNexus",2
-2078,98,apple,3,126225922159427584,Tue Oct 18 09:19:39 +0000 2011,Need to update my apps. ): my apple ID is disabled.. Don't know what to do.. @apple @AppStore @itunes @Siri_Assistant,3
-2079,2165,google,2,126492723673960448,Wed Oct 19 02:59:50 +0000 2011,Parabens #google gostei bastante do novo Android #android,2
-2080,253,apple,3,125951303770845185,Mon Oct 17 15:08:25 +0000 2011,@Apple sells 4 million on the first weekend. @Samsung sold over 30 million Galaxy S II phones globally.,3
-2081,103,apple,3,126211975595311104,Tue Oct 18 08:24:14 +0000 2011,iPhone 4S vs Canon 5D MKII. @apple @canon @iphone http://t.co/PvKqad33,3
-2082,1445,microsoft,0,126763108080427009,Wed Oct 19 20:54:14 +0000 2011,RT @idtheftprotect: #Microsoft has frozen some #Xbox Live (XBL) accounts after online gamers report they have been hacked. http://t.co/M ...,0
-2083,1443,microsoft,0,126766935634485249,Wed Oct 19 21:09:27 +0000 2011,"RT @schestowitz: When #Microsoft broke the law it played ""victim"". Now it engages in racketeering, calls victims ""outlaws"" (""respect our ...",0
-2084,1648,twitter,0,126875653210521600,Thu Oct 20 04:21:27 +0000 2011,Anyone else having trouble with the (i)Pad #twitter app not updating @'s? I get notified but can't see them in the app.,0
-2085,586,google,3,126528318542589952,Wed Oct 19 05:21:16 +0000 2011,"RT @LocalJoost: #ICS"" putting people at the heart""? You have GOT to be joking #Google. Now even copying slogans? Ah I get it, THOSE are  ...",3
-2086,627,apple,1,126315011600678913,Tue Oct 18 15:13:40 +0000 2011,"When you want something done right, you do it yourself... or go to @Apple. AT&T you're useless these days. #yourdaysarenumbered
+,Topic,Sentiment,TweetId,TweetDate,TweetText,Sentiment
+4601,twitter,irrelevant,126880095334973440,Thu Oct 20 04:39:06 +0000 2011,Ganun? Di ba kasama ang wit? lol RT @RobyQQ Your #Twitter followers either like you for your sense of humor or sex appeal.,irrelevant
+4602,twitter,irrelevant,126880015357984768,Thu Oct 20 04:38:47 +0000 2011,"@_kellykatiucia q nada vc q é linda mesmo! :)  só no me lenbro o dia q eu segui vc, Mais ta bom, mais uma pessoal especial no meu #Twitter:)",irrelevant
+4603,twitter,irrelevant,126879958529343488,Thu Oct 20 04:38:34 +0000 2011,quitandole las telarañas al #twitter jajaja,irrelevant
+4604,twitter,irrelevant,126879710054580224,Thu Oct 20 04:37:34 +0000 2011,Ammazza... Anche su #twitter la gente dorme a quest'ora,irrelevant
+4605,twitter,irrelevant,126879705046597632,Thu Oct 20 04:37:33 +0000 2011,Como esta la gent ermosa del #twitter n.n,irrelevant
+4606,twitter,irrelevant,126879692635635712,Thu Oct 20 04:37:30 +0000 2011,Etre influent sur #Twitter: publication de contenus qui engagent à l'action. http://t.co/H2qmDwpP EN via @jeffbullas,irrelevant
+4607,twitter,irrelevant,126879567385337856,Thu Oct 20 04:37:00 +0000 2011,Настоящий твиттерянин как только попадает в толпу стремиться тут же как можно быстрее попасть в #twitter,irrelevant
+4608,twitter,irrelevant,126879538415271936,Thu Oct 20 04:36:53 +0000 2011,RT @shezyyee: Sunaa karo merii jaan in se un se afsaane / sab ajnabi hain yahaan kaun kis ko pehchane #Kaifi #Shair #Twitter,irrelevant
+4609,twitter,irrelevant,126879341559824384,Thu Oct 20 04:36:06 +0000 2011,"o/ RT""@Cjas0007 Quien anda activo por el #Twitter ahorita???""",irrelevant
+4610,twitter,irrelevant,126879308663894016,Thu Oct 20 04:35:59 +0000 2011,"#TOMANOCU EU SIGO GENTE QE SO POSTA COISA EN CANADEIS, UOL, #twitter doido --`",irrelevant
+4611,twitter,irrelevant,126879295195987968,Thu Oct 20 04:35:55 +0000 2011,#Adomani #Twitter,irrelevant
+4612,twitter,irrelevant,126879277722505216,Thu Oct 20 04:35:51 +0000 2011,@christianortizh ps tiene pedos y la neta lo entiendo sabes?.. Y luego yo contandolo en el #Twitter #noesdedios,irrelevant
+4613,twitter,irrelevant,126879219484606464,Thu Oct 20 04:35:37 +0000 2011,"Comooo es q me dices q he llegado alos limites de uso #twitter no q lo nuestro duraria siempre,..... X)",irrelevant
+4614,twitter,irrelevant,126879210177441792,Thu Oct 20 04:35:35 +0000 2011,#twitter OFF Hasta mañana xd =l,irrelevant
+4615,twitter,irrelevant,126879164258201601,Thu Oct 20 04:35:24 +0000 2011,o #TWITTER é #FODA - Esposa defende Luis Fabiano no Twitter - Jogo Aberto 18/10/2011 =&gt; http://t.co/QdFWoDMD o bixo pegou!,irrelevant
+4616,twitter,irrelevant,126879138605834240,Thu Oct 20 04:35:18 +0000 2011,buenas noches  #Twitter W:,irrelevant
+4617,twitter,irrelevant,126879046071103488,Thu Oct 20 04:34:56 +0000 2011,jajajaja mi mama se metio en mi #twitter y en mi #facebook y escribio jajajaj te amo mami sos la mejor!!,irrelevant
+4618,twitter,irrelevant,126878948431900672,Thu Oct 20 04:34:33 +0000 2011,RT @Buzzcontinue: 34 des 50 plus grandes villes de France n'ont pas de compte #twitter ! http://t.co/S73ylVU6 cc @lagazettefr @e_r_w_a_n,irrelevant
+4619,twitter,irrelevant,126878924411125760,Thu Oct 20 04:34:27 +0000 2011,#Twitter Off!!,irrelevant
+4620,twitter,irrelevant,126878914625802241,Thu Oct 20 04:34:25 +0000 2011,E o meu #Primo @eduuaardo_ que nunca mais apareceu pelo #Twitter?  Saudade de você primãao ♥,irrelevant
+4621,twitter,irrelevant,126878849656037377,Thu Oct 20 04:34:09 +0000 2011,Porque mi app de #Twitter para #Android no actualiza las menciones?,irrelevant
+4622,twitter,irrelevant,126878819826139136,Thu Oct 20 04:34:02 +0000 2011,"definitivamente irei MATAR esse #Twitter 
+pq tento trocar a porr# da minha foto de smp
+da EEEEEERRRO *-* EEEERRO
 
-",1
-2087,1696,apple,2,126391727408947200,Tue Oct 18 20:18:30 +0000 2011,Dancing bear @apple store Lincoln center http://t.co/XBmjUpMq,2
-2088,403,apple,3,125598495137726464,Sun Oct 16 15:46:29 +0000 2011,"@Apple, feel free to accidently ship me a new iPhone 4s #nobigdeal",3
-2089,1154,google,1,126503805369069568,Wed Oct 19 03:43:52 +0000 2011,#Google's like my wife - searches things for me and completes my sentences.,1
-2090,1682,twitter,0,126864059206336513,Thu Oct 20 03:35:23 +0000 2011,#Twitter timeline and mentions up the shit :(,0
-2091,2056,google,2,126504049393672192,Wed Oct 19 03:44:50 +0000 2011,#Google y #Samsung lanzan oficialmente el #GalaxyNexus con #Android #IceCreamSandwich. http://t.co/N0yIucDw,2
-2092,2178,google,2,126492186060656640,Wed Oct 19 02:57:41 +0000 2011,"Parabéns, #Google. Vocês humilharam o #iOS! #Android 4.0",2
-2093,452,apple,3,125394805449699329,Sun Oct 16 02:17:05 +0000 2011,"#iPhone4S in #Space http://t.co/glOaXhLe via @youtube
+#Tomanocú",irrelevant
+4623,twitter,irrelevant,126878801970995200,Thu Oct 20 04:33:58 +0000 2011,"@AleeRetana cambiale el fondo a este tu coso vos!! XD esta aburriiiidooo.. x) aaa por cierto... WOW! ya no te abruma el #twitter x)
+#Welcome",irrelevant
+4624,twitter,irrelevant,126878766675918848,Thu Oct 20 04:33:49 +0000 2011,RT @NadaBebbars: اللى فى قلبى على تويترى #fact #twitter #lol,irrelevant
+4625,twitter,irrelevant,126878720098177024,Thu Oct 20 04:33:38 +0000 2011,Quien anda activo por el #Twitter ahorita???,irrelevant
+4626,twitter,irrelevant,126878709192990720,Thu Oct 20 04:33:36 +0000 2011,Demasiado #Twitter por hoy nos vemos #TwitterOff,irrelevant
+4627,twitter,irrelevant,126878489935753216,Thu Oct 20 04:32:43 +0000 2011,el #twitter x cel no s!rve e$ un ascΘ(...),irrelevant
+4628,twitter,irrelevant,126878477424148480,Thu Oct 20 04:32:40 +0000 2011,"@bruna_rafaelah xau amanha eu to d volto com meu #Twitter
+COM FE EM DEUS
+#TwiTTerOff",irrelevant
+4629,twitter,irrelevant,126878461464821760,Thu Oct 20 04:32:37 +0000 2011,La mamachy ya tiene #Twitter |||| Sigamosla es ella @DianaSanchez_27,irrelevant
+4630,twitter,irrelevant,126878337342771201,Thu Oct 20 04:32:07 +0000 2011,Buenas Noches a Todos!!! Llego mi momento. Momento #Twitter de reflexiones y analisis. Pensamientos encontrados en lo profundo de la noche.,irrelevant
+4631,twitter,irrelevant,126878307617746944,Thu Oct 20 04:32:00 +0000 2011,"@chihuahuentauro jajajaja #Facebook es otra cosa, insultas a #Twitter jajajajajaja",irrelevant
+4632,twitter,irrelevant,126878294867058688,Thu Oct 20 04:31:57 +0000 2011,My #Twitter #Diary مذكرات تويتري is out! http://t.co/JLsrgOXI ▸ Top stories today via @socialwediatips,irrelevant
+4633,twitter,irrelevant,126878250541645824,Thu Oct 20 04:31:46 +0000 2011,Shit! Que la gente no sabe que existe #Twitter cambian de estado en #BBM y en #FB mas que el pañal de un recien nacido.!,irrelevant
+4634,twitter,irrelevant,126878057662398464,Thu Oct 20 04:31:00 +0000 2011,@crucius89 miiiiiiiiiiiiiiira la rotita tenia #twitter aunque esta novata aun,irrelevant
+4635,twitter,irrelevant,126878055091277824,Thu Oct 20 04:31:00 +0000 2011,@Omardelos @RonaldElApostol Hace un tiempo q el varon tira su rema 11x17 aqui en #Twitter :D,irrelevant
+4636,twitter,irrelevant,126877892855611392,Thu Oct 20 04:30:21 +0000 2011,"#Twitter #twit2alsh
+تويتر يثبت لى يوميا انه فى الأصل كان عرافه كل ما أقوله حاجه يقوللى ما انا عارف
+OOoooops u already tweeted zaaaat go away",irrelevant
+4637,twitter,irrelevant,126877830150762496,Thu Oct 20 04:30:06 +0000 2011,"YouTube SEO: 
 
-#nasa @apple",3
-2094,1327,google,0,126490767345725441,Wed Oct 19 02:52:03 +0000 2011,"Why is #Google advertising Adwords Express on #Bing? Hmmm, I know Ballmer is happy :-D. #Google, your already a monopoly.",0
-2095,2049,google,2,126504516479754241,Wed Oct 19 03:46:41 +0000 2011,RT @centroandroid: #Google presenta #Android Beam una nueva forma de compartir por NFC http://t.co/lofb8HCJ,2
-2096,880,apple,0,126063215842037760,Mon Oct 17 22:33:07 +0000 2011,Wow the Genius Bar Reservation Line @Apple is ridic right now - ___- I am not amused. #ugh,0
-2097,2231,google,2,126489892678144000,Wed Oct 19 02:48:35 +0000 2011,Panoramique implémenté :o #android #google #nexusprime &lt;3 j'ai envie du tel mnt,2
-2098,623,apple,1,126322063332999169,Tue Oct 18 15:41:41 +0000 2011,@apple @siri is efffing amazing!!,1
-2099,1787,apple,2,125650076759638016,Sun Oct 16 19:11:27 +0000 2011,ninguem desliga o 3g do celular -.- “@giuchavez: Olha aqui @apple: na proxima atualizaçao eu quero um atalho pra ligar/desligar a 3g Ok ...,2
-2100,262,apple,3,125943078837161984,Mon Oct 17 14:35:44 +0000 2011,Ya hoo! @Apple sells 4 million iPhone 4S in 3 days http://t.co/rvdjSMMi (via @news360app) $AAPL,3
-2101,1634,twitter,0,126880813991202816,Thu Oct 20 04:41:58 +0000 2011,So my mentions don't work? And my TL don't be wanting to update. Is #twitter moving servers or doing maintenance?,0
-2102,1438,microsoft,0,126781543879421952,Wed Oct 19 22:07:30 +0000 2011,"@theresamarosy bc #IE , like everything #Microsoft makes is junk and super prone to crashing.",0
-2103,1969,google,2,126518917635125248,Wed Oct 19 04:43:55 +0000 2011,#Google revela o Anddroi 4.0 Ice Cream Sandwich: O Google revelou hoje durante um evento em Hong Kong a nova versão…,2
-2104,1802,apple,2,125490577130258432,Sun Oct 16 08:37:39 +0000 2011,@HAZI クック@apple.com？,2
-2105,640,apple,1,126183339945234432,Tue Oct 18 06:30:27 +0000 2011,@Apple downloads of iOS 5 are proving popular with users  -- http://t.co/NSHLfiUX,1
-2106,2168,google,2,126492533860728832,Wed Oct 19 02:59:04 +0000 2011,Y termina el evento. #Android #Google #Samsung,2
-2107,1959,google,2,126521505097068544,Wed Oct 19 04:54:12 +0000 2011,"#GalaxyNexus | @xataka http://t.co/p2Tu2kBm &lt;-El nuevo teléfono de #Samsung y #Google, EL perfecto rival para el #iPhone4S con su #Android 4",2
-2108,488,apple,3,125315263183851521,Sat Oct 15 21:01:01 +0000 2011,So @apple changed the look of their on/off toggle. I wonder how long it will take for all the hip web apps to follow...,3
-2109,1843,google,2,126534037929074688,Wed Oct 19 05:44:00 +0000 2011,Das neue #Google #Galaxy #Nexus haut mich nicht so sehr vom Hocker. Ist meiner Meinung nach nur ein wenig besser als das #SGS2.,2
-2110,1734,apple,2,126173465253384193,Tue Oct 18 05:51:12 +0000 2011,#iOS5 op iPad 2 geïnstalleerd. Tijdrovend en bepaald niet probleemloos. @Apple gaat meer en meer de #Windows kant op. ;-(,2
-2111,146,apple,3,126094392183357443,Tue Oct 18 00:37:00 +0000 2011,"Yeah, there's no @apple twitter account.",3
-2112,1534,microsoft,0,126574432159408129,Wed Oct 19 08:24:30 +0000 2011,#microsoft fail #notresponding for fcucks sake  http://t.co/lCXa9q8P,0
-2113,1986,google,2,126516048961863681,Wed Oct 19 04:32:31 +0000 2011,Las mejores aplicaciones para hablar gratis por el móvil - http://t.co/LN0pChe3 http://t.co/iUS8431m #google,2
-2114,1369,microsoft,1,126734527551913984,Wed Oct 19 19:00:40 +0000 2011,"@SmartKeitai Yeah I saw it, @Google is taking seriously what #Microsoft has done with #Metro UI but yeah looks good Android 4.0",1
-2115,2245,google,2,126489247581609986,Wed Oct 19 02:46:01 +0000 2011,Presentanción #Android 4.0 y Samsung Nexus Prime - http://t.co/Iy3VNaFF #Google. (Se jodió #iOS5),2
-2116,659,apple,1,126064519943426048,Mon Oct 17 22:38:18 +0000 2011,@apple loving the new IOS5 upgrade for the iPhone!,1
-2117,1794,apple,2,125568051277086721,Sun Oct 16 13:45:31 +0000 2011,"Olha aqui @apple: na proxima atualizaçao eu quero um atalho pra ligar/desligar a 3g Ok ? Aff fazem tudo pela metade !!! Steve,da um jeito ai",2
-2118,186,apple,3,126017643747606528,Mon Oct 17 19:32:02 +0000 2011,It's a good thing @apple has not came out with an iCar because I would be in line for one and im sure it would be expensive,3
-2119,1147,google,1,126505144878772224,Wed Oct 19 03:49:11 +0000 2011,So so excited for all of the new Android features! Awesomeness :) #Android #ICS #Google #GalaxyNexus,1
-2120,608,apple,1,126373779483004928,Tue Oct 18 19:07:11 +0000 2011,From which companies do you experience the best customer service aside from @zappos and @apple?,1
-2121,1930,google,2,126524213401096192,Wed Oct 19 05:04:57 +0000 2011,#Google New Effortless-to-Use Texas Holdem Strategy Kit Has the Tools You Require To Turn into a 100%... http://t.co/KkswpBtW #wikileaks,2
-2122,197,apple,3,126011120694726656,Mon Oct 17 19:06:07 +0000 2011,"@coatgal had a really interestng experience up in the @Apple store though, Paul was with me up there, faulty #iphone4 - but out of warranty",3
-2123,293,apple,3,125920729194704896,Mon Oct 17 13:06:55 +0000 2011,Video: SIRI also gets angry. http://t.co/ksX2XZoR  @chrisvoss @apple #apple #siri #iphone4S #Ai,3
-2124,766,apple,0,126416915664084992,Tue Oct 18 21:58:36 +0000 2011,"@mashable @apple, iphones r 2 expensive. Most went w/ htc/galaxy. No customer loyalty w/phone comp..",0
-2125,400,apple,3,125616747863736320,Sun Oct 16 16:59:01 +0000 2011,@Blogger loves @Apple iPhone. My blogpost finally done through iPhone apps.,3
-2126,122,apple,3,126141157146238976,Tue Oct 18 03:42:50 +0000 2011,My friend @bm88 found this article on the #ios5 battery drain problem http://t.co/zMX85Fkd @apple,3
-2127,202,apple,3,126006572420833282,Mon Oct 17 18:48:02 +0000 2011,"@jackiestone1 yes! Tech peeps talk so much about algorithms, but tech should always tie back to people. @apple proves this #imediasummit",3
-2128,835,apple,0,126247557339947008,Tue Oct 18 10:45:37 +0000 2011,@apple is there a problem with iOS 5 that is preventing audio apps and audio functions from operating properly? I keep losing sound.,0
-2129,1439,microsoft,0,126778114385772548,Wed Oct 19 21:53:52 +0000 2011,"When #Microsoft ""violated U.S. antitrust laws""—leaving #Netscape out of business & #Novell wounded—it played ""dumb"". http://t.co/0WHHmAK4",0
-2130,1733,apple,2,126175729024122880,Tue Oct 18 06:00:12 +0000 2011,Las aplicaciones más populares para iPhone (vía AppleWeblog) http://t.co/m68Tzn1K #iphone @apple,2
-2131,1695,apple,2,126394266145665025,Tue Oct 18 20:28:35 +0000 2011,Cenaze nedeniyle kapalıyız' @apple  http://t.co/j4L892Kk,2
-2132,1707,apple,2,126352049070809089,Tue Oct 18 17:40:50 +0000 2011,"Y @Apple? ""@BlackberryVzla: RIM anuncia más de 150 millones de dispositivos Vendidos, 1 Billón de Apps Descargadas ymás http://t.co/5IFKXvg4",2
-2133,2228,google,2,126489934088511490,Wed Oct 19 02:48:45 +0000 2011,RT @twandroid: Le panorama est très sympa et peut être coupé à tout moment #google #nexusprime,2
-2134,1153,google,1,126503946092158976,Wed Oct 19 03:44:25 +0000 2011,brilliant WebGL Bookcase #google http://t.co/CR3A6k9U,1
-2135,1661,twitter,0,126870162510057473,Thu Oct 20 03:59:38 +0000 2011,"Okay #Twitter, it'd be muchhh appreciated if you could start working on my computer soon.",0
-2136,1759,apple,2,125967315488608257,Mon Oct 17 16:12:03 +0000 2011,@macworld_brasil vcs conseguiram fazer funcionar o find my Mac? O meu sempre pede para reportar o erro a @Apple !,2
-2137,854,apple,0,126141077131497472,Tue Oct 18 03:42:31 +0000 2011,9% now on my second full charge of the day. Pissed @Apple,0
-2138,1589,twitter,1,126875378013843456,Thu Oct 20 04:20:22 +0000 2011,@AlexMufferi #twitter&gt;facebook,1
-2139,641,apple,1,126180209501286400,Tue Oct 18 06:18:01 +0000 2011,"Lmfao look at the argument I had with Siri !!
-@ijustine @apple http://t.co/D4VjL7SI",1
-2140,1,apple,3,126415742177513472,Tue Oct 18 21:53:56 +0000 2011,"RT @rdingwell: .@Apple has a record quarter and because a bunch of professional guessers (aka analysts) wanted more, its a disappointmen ...",3
-2141,698,apple,1,125722746100531200,Mon Oct 17 00:00:13 +0000 2011,Loving the new iPod update @apple,1
-2142,1636,twitter,0,126879964619485185,Thu Oct 20 04:38:35 +0000 2011,Anyone in #twitter land know if retweets are broken? Haven't seen any since Tuesday.,0
-2143,1291,google,0,126517608697708545,Wed Oct 19 04:38:43 +0000 2011,The awkward moment when google #chrome take a hell of a lot time to load #googleplus #google,0
-2144,2186,google,2,126491961271136256,Wed Oct 19 02:56:48 +0000 2011,RT @twandroid: Partage d'apps en NFC #google #nexusprime,2
-2145,1520,microsoft,0,126622538557177856,Wed Oct 19 11:35:40 +0000 2011,"I have concluded, having used it since March, that Windows 7 Ultimate is a complete catastrophe. Mr Gates, you have lost the plot #Microsoft",0
-2146,1853,google,2,126533452618137600,Wed Oct 19 05:41:40 +0000 2011,#Google lanserar #Android 4.0 / Ice Cream Sandwich med tillhörande SDK: http://t.co/U62wsEoU,2
-2147,1136,google,1,126510977335300096,Wed Oct 19 04:12:22 +0000 2011,@VentureBeat I like the #google virtual bookcase thank you for sharing,1
-2148,2217,google,2,126490549367738368,Wed Oct 19 02:51:11 +0000 2011,"Chrome Experiment – WebGL Bookcase, biblioteca infinita de Google Books http://t.co/HrLLVlIK #Google #Chrome #GoogleChrome #Software",2
-2149,1631,twitter,0,126881376074076161,Thu Oct 20 04:44:12 +0000 2011,"Wtf is a tweet , sounds like tha dam cartoon network #tweeted #tweeter #twitter #twitterer",0
-2150,1998,google,2,126515498467860480,Wed Oct 19 04:30:20 +0000 2011,"Galaxy Nexus anunciado oficialmente: pantalla de 4,65 pulgadas y Ice Cream Sandwich http://t.co/gDETlxsN #galaxy_nexus #GalaxyNexus #google",2
-2151,663,apple,1,126059399319003136,Mon Oct 17 22:17:57 +0000 2011,I love our @apple imac even though I haven't seen my hubby in 3 days now! #geek,1
-2152,683,apple,1,125943290288803841,Mon Oct 17 14:36:34 +0000 2011,"Bravo, @Apple! http://t.co/BgoTzj7K",1
-2153,1257,google,1,126488572772622336,Wed Oct 19 02:43:20 +0000 2011,Data usage in ICS.. Looks like I don't need Watchdog 3G Pro anymore.. hah! #Android #ICS #Google,1
-2154,317,apple,3,125866627337162752,Mon Oct 17 09:31:57 +0000 2011,A court in Sydney banned the sale of @Samsung 's Galaxy Tab in Australia over intellectual property infringement claims by @Apple  #IP_wars,3
-2155,648,apple,1,126116614495154176,Tue Oct 18 02:05:18 +0000 2011,Well at least the @apple store has amazing call waiting music! #need4s,1
-2156,1434,microsoft,0,126789739180326913,Wed Oct 19 22:40:04 +0000 2011,#Update #Microsoft MS11-078 - Critical : Vulnerability in .NET Framework and Microsoft Silverlight Could Allow R... http://t.co/izO0WUNt,0
-2157,1479,microsoft,0,126714471543619584,Wed Oct 19 17:40:58 +0000 2011,"When u dine with a customer u shoukd never explain abt solutions unless he ask , M$ never lean the concept #microsoft #fail",0
-2158,709,apple,1,125680049478316032,Sun Oct 16 21:10:33 +0000 2011,@rygurl you need an @apple iphone4S with Siri!,1
-2159,1282,google,0,126534476875567104,Wed Oct 19 05:45:44 +0000 2011,There are too many #google services that do not work when you are a #googleapps user. #googleplus above all + profiles + #plusone,0
-2160,1768,apple,2,125928640394432513,Mon Oct 17 13:38:22 +0000 2011,@hervepierre mdr! ouais une mauvaise expérience avec les vendeurs @Apple store m'a fait hair l'iphone ;),2
-2161,972,apple,0,125681375058735104,Sun Oct 16 21:15:49 +0000 2011,"Sorry @apple, but #iMessage will never be what #BBM is. Disappointed.",0
-2162,1306,google,0,126497929593761792,Wed Oct 19 03:20:31 +0000 2011,RT @SHlFT: dear #google & #samsung... learn some presentation 101 first. please.,0
-2163,1400,microsoft,1,126658961263951873,Wed Oct 19 14:00:24 +0000 2011,"Forget Siri, there is still no beating speech commands on @windowsphone: http://t.co/19GAjSGi #wp7 #mango #tellme #microsoft #siri",1
-2164,1408,microsoft,1,126611718376919041,Wed Oct 19 10:52:40 +0000 2011,RT @asherCFO: #Yahoo up 4 sale - again! Yrs back #Microsoft almost bought it & now glad it didn't. This could b deal of the year that do ...,1
-2165,1496,microsoft,0,126677032837971968,Wed Oct 19 15:12:12 +0000 2011,"So let me get this straight, #microsoft makes windows phone, microsoft owns skype but there's no #skype app for windows phone.",0
-2166,2038,google,2,126506135082631168,Wed Oct 19 03:53:07 +0000 2011,siento mas interesante el #google+ que el #face xD,2
-2167,1529,microsoft,0,126586083470360576,Wed Oct 19 09:10:48 +0000 2011,I have been seriously slacking with my #mandarin studies these past few months. Blame #Microsoft and #Cisco!! #StudyingWhilstMotivated,0
-2168,1663,twitter,0,126869842769870848,Thu Oct 20 03:58:22 +0000 2011,RT @nagoul1: #Retweets section of my #twitter account has not been working for 17 hours! Is Everyone else having this problem? #RT #RTs,0
-2169,1354,microsoft,1,126749591956762624,Wed Oct 19 20:00:32 +0000 2011,RT @bmann Awesome! @TommyLee is moving to #Vancouver as Dev Evangelist for #Microsoft - we finally get a local,1
-2170,2236,google,2,126489580835848193,Wed Oct 19 02:47:20 +0000 2011,RT @twandroid: Panoramas sur ICS ! #google #nexusprime,2
-2171,2251,google,2,126489012423770113,Wed Oct 19 02:45:05 +0000 2011,Parisian Love: How to impress a French? http://t.co/Nh81Cbqf #google,2
-2172,1643,twitter,0,126876956443688960,Thu Oct 20 04:26:38 +0000 2011,Im gonna need #Twitter to get all these problems fixed ASAP.,0
-2173,1051,apple,0,125307394640199680,Sat Oct 15 20:29:46 +0000 2011,"Disappointing visual merchandising, @apple. Simple, but lacks elegance. And sequence doesn't even tell us about #Siri. http://t.co/XV2q3gfi",0
-2174,795,apple,0,126372040696541184,Tue Oct 18 19:00:17 +0000 2011,"You know @apple It's been almost a week since I paid for iTunes Match, I would really like to use it. Any ETA on a fix?",0
-2175,1597,twitter,1,126870551032643584,Thu Oct 20 04:01:11 +0000 2011,RT@jeffbullas Twitters impressive numbers  http://t.co/VJRSsfYn #Twitter #SMM #SocialMedia,1
-2176,1819,apple,2,125319263027343360,Sat Oct 15 21:16:55 +0000 2011,"RT @ThBenkoe: hey @apple! dass man selektiv keine einzelnen fotos (peinliche, überflüssige etc.) aus dem fotostream löschen kann, ist do ...",2
-2177,1722,apple,2,126271901340401665,Tue Oct 18 12:22:21 +0000 2011,En @Apple mucho diseño pero llevo media hora esperando a mi clase que poca formalidad,2
-2178,1183,google,1,126494883367235585,Wed Oct 19 03:08:25 +0000 2011,"Introducing Galaxy Nexus. Simple, beautiful, beyond smart http://t.co/qaMj3MeR #android #ICS #google #samsung",1
-2179,1059,apple,0,125276004817190914,Sat Oct 15 18:25:01 +0000 2011,"So ""cutting the cord"" makes podcasts even harder to manage?!? No subscriptions! WTH, @Apple? http://t.co/LD2i871x #iOS5 (via @carrypad)",0
-2180,540,google,3,126532798994583552,Wed Oct 19 05:39:04 +0000 2011,Unwrapping Ice Cream Sandwich on the Galaxy Nexus http://t.co/pw4mfbSe #Google,3
-2181,1678,twitter,0,126864648577351681,Thu Oct 20 03:37:43 +0000 2011,Thank you #twitter for not giving me the 10 tweets that have been tweeted at me in the past 3 days! Lol #blameitontheiphone #ineedtoupdate,0
-2182,1757,apple,2,125968277083136000,Mon Oct 17 16:15:53 +0000 2011,Se tan arruinando mis audifonos d mi #iphone @apple quien me quiere regalar unos? http://t.co/56eeE9uY,2
-2183,1923,google,2,126525815084158976,Wed Oct 19 05:11:19 +0000 2011,Kurz und knapp das wichtigste: #Google stellt neues Smartphone und Betriebssystem vor http://t.co/EeQJFL0P,2
-2184,95,apple,3,126257394622808064,Tue Oct 18 11:24:43 +0000 2011,"Been MIA from Twitter.. But now Tweeting from my new @apple iPhone! :) #finallycool #notreally well, It IS ..I'm not :) #stilllearning",3
-2185,1020,apple,0,125405005493706752,Sun Oct 16 02:57:37 +0000 2011,@Blackberry does take better quality photos than @Apple iPhone though. I give them that! #photograhersEye,0
-2186,563,google,3,126530795987939328,Wed Oct 19 05:31:07 +0000 2011,"#seo #serps Ballmer: 70% Of The Time, Google & Bing Are The Same, So Try Bing! by @dannysullivan http://t.co/ZE9AiMYI #google #yahoo #bing",3
-2187,863,apple,0,126118222746497025,Tue Oct 18 02:11:42 +0000 2011,Issues with updating iTunes on my windows pc - they really are not compatible.... Sent more time talking to @Apple care than using it!!,0
-2188,1484,microsoft,0,126700014385897472,Wed Oct 19 16:43:32 +0000 2011,"I sware to go, #windows and #microsoft will be the death of me...I don't know why I keep giving windows (cont) http://t.co/3rkOchzr",0
-2189,1881,google,2,126530251684720641,Wed Oct 19 05:28:57 +0000 2011,Samsung и Google представили новый смартфон Galaxy Nexus http://t.co/ou1aoGK6 #google #nexus #android,2
-2190,1038,apple,0,125338210158125056,Sat Oct 15 22:32:12 +0000 2011,"Hey guys at @Apple, WTF is happening to #iPhone4, with #iOS5 suddenly fade to black and begin to vibrate continuously, I had to reboot it",0
-2191,206,apple,3,126003567315255296,Mon Oct 17 18:36:06 +0000 2011,Flowers & Apples shower the Santa Monica @Apple store in honor of #SteveJobs http://t.co/xGf60gMs,3
-2192,392,apple,3,125629788563050496,Sun Oct 16 17:50:50 +0000 2011,Why didn't @Apple merge the address and search bars in Safari ala Crome in iOS 5? #simplethings,3
-2193,870,apple,0,126085893353250816,Tue Oct 18 00:03:14 +0000 2011,"@chascouponmom @apple I get they are busy w/ the new phone, but I just wanted to buy a stylus. they made me wait forever outside & never",0
-2194,397,apple,3,125620113582993408,Sun Oct 16 17:12:23 +0000 2011,"@Mvm549 well, if it told you what you did to it or how it happened, it would be concrete evidence that @Apple is logging your life. :l",3
-2195,2204,google,2,126491272088260609,Wed Oct 19 02:54:04 +0000 2011,joga meu nome no #google pra ver no que vai dar ;) ♪,2
-2196,1028,apple,0,125369698840887297,Sun Oct 16 00:37:20 +0000 2011,Damn you @apple for breaking wififofum! It continued to work in ios 4. Was one of my most used apps. Damn Apple's overbearing policies!,0
-2197,1485,microsoft,0,126692062757269505,Wed Oct 19 16:11:56 +0000 2011,RT @EA_Jorge: I'm on day 80-something of my Xbox LIVE acct being hacked. This is worse than PSN hack. Will I ever get it back? #Microsof ...,0
-2198,960,apple,0,125722107710672896,Sun Oct 16 23:57:40 +0000 2011,what is going on with all my @Apple products?! First my #iPad freezes (still is frozen) and then my #iPhone won't turn on!!! #techieTroubles,0
-2199,1570,twitter,1,126882662932692992,Thu Oct 20 04:49:18 +0000 2011,"I'm starting to get really concerned, sending hashtags in emails :P #twitter is taking over our lives :D",1
-2200,1895,google,2,126529003879272448,Wed Oct 19 05:23:59 +0000 2011,AsiaClassifiedToday: Parkson to list retail arm in S$200 mln Singapore IPO-source - Reuters: Parks... http://t.co/AadDaQA7 #asia #google,2
-2201,2146,google,2,126493751215525889,Wed Oct 19 03:03:55 +0000 2011,Με συγχισες #google σιχτιρια! Για αυτο κ ποτε δν θα δεχτω να δουλεψω σε σενα που να χτυπιεσαι :Ρ,2
-2202,804,apple,0,126351972948393984,Tue Oct 18 17:40:32 +0000 2011,@NickTheFNicon He can send but not rcve txts so he has an apt @apple at 4pm.Then he exclaims: And I waited a whole YEAR for this phone!!LMAO,0
-2203,1751,apple,2,125992545552576512,Mon Oct 17 17:52:19 +0000 2011,Perry ricks @Apple @Lenox http://t.co/9kYgOvB1,2
-2204,502,apple,3,125270965268643840,Sat Oct 15 18:05:00 +0000 2011,Lol @Apple support playing Mary J Blige during the wait time.,3
-2205,779,apple,0,126393717421645825,Tue Oct 18 20:26:25 +0000 2011,@Lisa_Marie1987 shhhh. the evil sith lords @apple may hear you ha!,0
-2206,1863,google,2,126532543158820864,Wed Oct 19 05:38:03 +0000 2011,RT @LoyaltyFamU: ] #money #jobs Network Accounts Submit Or Propose ur bids now http://t.co/YF8fmEaH via: #google @LoyaltyFamU,2
-2207,200,apple,3,126008776322064384,Mon Oct 17 18:56:48 +0000 2011,@Apple's Success is Also #Google's Gain as #Mobile #Advertising Balloons http://t.co/0400ynQY,3
-2208,2182,google,2,126492052371406848,Wed Oct 19 02:57:10 +0000 2011,"@EgyDroid ""Android Beam هو نظام تبادل البيانات الخاص بأندرويد لتناقل البيانات عن طريق خاصية NFS"" very strong feature amazing #Google #Nexus",2
-2209,2088,google,2,126499065423859712,Wed Oct 19 03:25:02 +0000 2011,"Que es #Android Beam? Una nueva forma que presenta #Google para compartir contenido, solo juntar los teléfonos y pasar la información :)",2
-2210,1796,apple,2,125542941287649280,Sun Oct 16 12:05:44 +0000 2011,"Oja, ik ben gelijk al mijn apps kwijt bedankt @apple .",2
-2211,378,apple,3,125642161659199488,Sun Oct 16 18:40:00 +0000 2011,"@Apple, why do you have such a beef with @Windows?  #cantwealljustgetalong",3
-2212,418,apple,3,125546017205665792,Sun Oct 16 12:17:57 +0000 2011,this reader button for safari is perfect for fic @apple #ios5 #stevejobsday,3
-2213,1698,apple,2,126385587740610563,Tue Oct 18 19:54:06 +0000 2011,iPhoneのアドレスは@apple.ne.jpにすればいいのに(´ι_`),2
-2214,391,apple,3,125630016485732352,Sun Oct 16 17:51:44 +0000 2011,Back to the Future 2 where @Apple didn't even have IPhone,3
-2215,1522,microsoft,0,126614764339212288,Wed Oct 19 11:04:46 +0000 2011,Oh how much do I loathe #microsoft??? An hour to 'configure updates' which it is then unable to do so another 20 mins 'reverting changes'...,0
-2216,1162,google,1,126499965869625345,Wed Oct 19 03:28:36 +0000 2011,Iphone 4s almost had me ... ALMOST !! Ice Cream Sandwich FTW !! http://t.co/p32Ehduq #android #google,1
-2217,1495,microsoft,0,126679134817624066,Wed Oct 19 15:20:33 +0000 2011,Interesting read - How #Apple eclipsed #Microsoft http://t.co/hFWpbMY6 via @guardian (cc: @elcheicon),0
-2218,2027,google,2,126507802251370497,Wed Oct 19 03:59:45 +0000 2011,"@julioandres26 sí, es como el #google de la piratería! jajaja",2
-2219,1152,google,1,126504013939216384,Wed Oct 19 03:44:41 +0000 2011,RT @Mr_Lister: Loves the new presentations tool for Google Docs - particularly themes and adding video via URL #google #sd33 #edchat #ed ...,1
-2220,1367,microsoft,1,126736431929507840,Wed Oct 19 19:08:14 +0000 2011,"""#Microsoft details Windows 8 search improvements"" - via @SlashGear http://t.co/JCawWRzQ",1
-2221,64,apple,3,126315088641658881,Tue Oct 18 15:13:58 +0000 2011,@RIM to release new generation of phones in the new year to contend with @Apple... Hmmm.,3
-2222,2062,google,2,126502150472871937,Wed Oct 19 03:37:17 +0000 2011,RT @tecnoclips: #Google lanza #Android 4.0 http://t.co/NZ494v4h también conocido como Ice Cream Sandwich y Samsung lanza el Galaxy #Nexus,2
-2223,1180,google,1,126495812724338688,Wed Oct 19 03:12:06 +0000 2011,I'm most excited about Android beam & face detection unlock for Android ICS. #AndroidBeam #Google #IceCreamSandwich,1
-2224,492,apple,3,125305567148388352,Sat Oct 15 20:22:29 +0000 2011,Follow me and I follow you!! @iOS5 @fansoflilwayne @follow @apple,3
-2225,379,apple,3,125642041140060160,Sun Oct 16 18:39:31 +0000 2011,He asked Siri where's the hoes at & she told him where the nearest escorts were I love @apple,3
-2226,763,apple,1,125165176772247552,Sat Oct 15 11:04:38 +0000 2011,Love love love iOS 5!! @apple,1
-2227,791,apple,0,126380553464315904,Tue Oct 18 19:34:06 +0000 2011,It would be great If @Apple would send my new phone. #frustrated,0
-2228,1076,apple,0,125223685194915840,Sat Oct 15 14:57:07 +0000 2011,"@ford should have teamed up with @Apple instead of @microsoft to make this SYNC system in my new focus. 
-Car is sweet SYNC is #EpicFail",0
-2229,878,apple,0,126069614181486593,Mon Oct 17 22:58:32 +0000 2011,@hailfire101 @Irvysan They are... then @apple happened and snatched Siri so they could be douchebags and say 'it's ours!',0
-2230,337,apple,3,125803457155301376,Mon Oct 17 05:20:56 +0000 2011,Siri keeps trying to send me to escort services....is that legal? @Apple,3
-2231,1016,apple,0,125408701166256128,Sun Oct 16 03:12:18 +0000 2011,Is it me or does #iPhone4s run a little warm sometimes? @apple,0
-2232,1275,google,1,126486849706401792,Wed Oct 19 02:36:29 +0000 2011,The Samsung Galaxy Nexus and Ice Cream Sandwich are sick! #android #icecreamsandwich #google,1
-2233,455,apple,3,125373427661029376,Sun Oct 16 00:52:09 +0000 2011,Do wish @hudl would come up with a native @apple Mac version of their video editor especially with HD video.  But love everything @hudl,3
-2234,815,apple,0,126324573384871936,Tue Oct 18 15:51:39 +0000 2011,"@Apple, on the #iPad with #iOS5, why has the Messages Icon been included when it can't be used?",0
-2235,995,apple,0,125603435440644098,Sun Oct 16 16:06:07 +0000 2011,"I hate you @apple for not sending Toledo,oh @bestbuy any @iPhone for @verizon even after I pre ordered!!!",0
-2236,1981,google,2,126516804108562433,Wed Oct 19 04:35:31 +0000 2011,"AsiaClassifiedToday: Adopting solar leasing programmes in Singapore, by Rachel Wong - eco-bus... http://t.co/l1V1gUIG #asia #google #ads",2
-2237,201,apple,3,126007705600135168,Mon Oct 17 18:52:32 +0000 2011,"@_alastair w/ respect, the old alternatives were talking to a computer in india or the geek squad. @apple does a pretty great job.",3
-2238,161,apple,3,126066994008162305,Mon Oct 17 22:48:08 +0000 2011,"@FastCompany - The Great Tech War Of 2012: @Apple, @Facebook, @Google, and @Amazon duking it out - http://t.co/HXsAlzPv via @ADerricks",3
-2239,1579,twitter,1,126877750131818497,Thu Oct 20 04:29:47 +0000 2011,In that #twitter mood!,1
-2240,702,apple,1,125712433087123456,Sun Oct 16 23:19:14 +0000 2011,Thx @instagram Thx @apple #hypo #D-76 #tri-x http://t.co/D7EeJHBT,1
-2241,1500,microsoft,0,126668133405696000,Wed Oct 19 14:36:51 +0000 2011,"http://t.co/PUJYV9c0 With friends like #Billgates and #steveballmet at #microsoft, who needs enemies ;-)",0
-2242,1129,google,1,126513425043030016,Wed Oct 19 04:22:05 +0000 2011,"""Samsung and Google have closely collaborated to push the mobile experience forward. We are pleased to ... http://t.co/ecT8fYIA #Google+",1
-2243,1021,apple,0,125404317669785600,Sun Oct 16 02:54:53 +0000 2011,Ok @iTunesMusic idk wth is up but after syncing my phone my album art is out of order! WTF @Apple!,0
-2244,1585,twitter,1,126876600083025920,Thu Oct 20 04:25:13 +0000 2011,"@Garr_Williams isn't this place great? 
-#twitter",1
-2245,1955,google,2,126521734076698625,Wed Oct 19 04:55:06 +0000 2011,Bon. Reste plus qu'à voir ce que ça va donner IRL. #Google #NexusPrime #Android #ICS,2
-2246,34,apple,3,126360821419884544,Tue Oct 18 18:15:42 +0000 2011,"Stay young, stay foolish. But take ownership when u f*ck up, don't complain, and never give up. #resilience @apple",3
-2247,775,apple,0,126405185630253056,Tue Oct 18 21:11:59 +0000 2011,Yellowgate? Some iPhone 4S Users Complain of Yellow Tint to Screen http://t.co/uaqrxTNk @apple @iphone4s,0
-2248,1478,microsoft,0,126716806688804865,Wed Oct 19 17:50:15 +0000 2011,Wow. Lots of negative comments about #windows8 on the @BuildWindows8 blog. I sure hope #Microsoft is listening #keepthedesktop,0
-2249,1390,microsoft,1,126688284343672832,Wed Oct 19 15:56:55 +0000 2011,#Kinect Makes Learning Playful with Help from #SesameStreet and #NationalGeographic #education #microsoft http://t.co/E5uhka8F,1
-2250,2139,google,2,126494156368523267,Wed Oct 19 03:05:31 +0000 2011,Hinweis: Linkbuilding Kurs kostenlos  http://t.co/pwldYXVE #google,2
-2251,1363,microsoft,1,126743288320491521,Wed Oct 19 19:35:29 +0000 2011,If you didn't know - Free #Microsoft #HTML5 @Webcamps on West Coast MountainView Redmond Portland check them out  http://t.co/L86OWQRE,1
-2252,2041,google,2,126505497888161792,Wed Oct 19 03:50:35 +0000 2011,продвижение сайта статьями http://t.co/ytNbL8sF Cервис регистрации в каталогах статей #seo #linkbuilding #backlinks #addurl #google,2
-2253,241,apple,3,125967126912712705,Mon Oct 17 16:11:18 +0000 2011,YESSS @apple fix it also slow internet RT @SprintFeed: iPhone 4S owners are you having trouble with Siri connecting to internet?,3
-2254,2061,google,2,126502611657564160,Wed Oct 19 03:39:07 +0000 2011,"Camarada @michelenlared, mándale a @mvdan los enlaces de los dólares de #Google que financian a la #FSF porque no quiere creerte... xD",2
-2255,600,apple,1,126415614616154112,Tue Oct 18 21:53:25 +0000 2011,Now all @Apple has to do is get swype on the iphone and it will be crack. Iphone that is,1
-2256,1297,google,0,126507644742672384,Wed Oct 19 03:59:07 +0000 2011,"Now, really #google how hypocritical is this? http://t.co/6nHuYFeh #analytics",0
-2257,2214,google,2,126490644616200192,Wed Oct 19 02:51:34 +0000 2011,Possibilité de voir les mises à jour (un peu comme Sony Ericsson avec l'intégration Facebook) #google #nexusprime,2
-2258,2068,google,2,126501161502126080,Wed Oct 19 03:33:21 +0000 2011,"@iPhonologo iOS exclusivo, desde que no logre pasar a la segunda ronda de examenes para trabajar en #Google me cambie al mundo Mac",2
-2259,646,apple,1,126130991365500928,Tue Oct 18 03:02:26 +0000 2011,you are so blessed. @apple,1
-2260,1528,microsoft,0,126594799062102016,Wed Oct 19 09:45:26 +0000 2011,Internet Explorer 9 is the biggest pile of shit ever seriously #Microsoft #IE9,0
-2261,1267,google,1,126487844830191617,Wed Oct 19 02:40:26 +0000 2011,New Galaxy Nexus: App Improvements - Gmail  offline search of last 30 days  #nexus #samsung #google #android bit.ly/nEJbyE,1
-2262,1899,google,2,126528993187999744,Wed Oct 19 05:23:57 +0000 2011,AsiaClassifiedToday: ITB Asia opens in Singapore - eTurboNews: eTurboNewsITB Asia opens in Singapo... http://t.co/vlL4NZc6 #asia #google,2
-2263,562,google,3,126531278517448705,Wed Oct 19 05:33:02 +0000 2011,"RT @GLaraLopez: The Perks of Working at #Google, #Facebook, #Twitter and More [INFOGRAPHIC] http://t.co/0KcgbMWF #sm #socialmedia #redes ...",3
-2264,189,apple,3,126014643826208768,Mon Oct 17 19:20:06 +0000 2011,@apple @internode #icloud #ios5 #piracy omg no wonder ive used all my downloads!!,3
-2265,1806,apple,2,125409044222586880,Sun Oct 16 03:13:40 +0000 2011,I guess I should go @hublot @apple and @ZegnaOfficial shopping next week. Birthdays only come once a year! Lol,2
-2266,975,apple,0,125665094561574913,Sun Oct 16 20:11:07 +0000 2011,"@semilshah yeah except that when you ask for a receipt, it takes them 30 minutes to figure out where it printed out. Fix that, @Apple!",0
-2267,2047,google,2,126504701142376448,Wed Oct 19 03:47:25 +0000 2011,RT @Eleconomistanet: Impulsor de #Facebook Sean #Parker resta importancia a la amenaza de #Google http://t.co/EnQtXsfv,2
-2268,1082,google,1,126534020367519744,Wed Oct 19 05:43:56 +0000 2011,"The new Nexus looks good! UI feel a bit confusing but I guess Android users are ok with that! Now, try it :) #Google #android #nexusprime",1
-2269,474,apple,3,125336929825849344,Sat Oct 15 22:27:07 +0000 2011,"De la nada mi #iPhone4 se fue a negro y empezó a vibrar, hubo que resetearlo, que onda con #iOS5 WTFH @Apple",3
-2270,747,apple,1,125393816470568961,Sun Oct 16 02:13:10 +0000 2011,#iOS5 update submitted to @apple! Thanks for all the support!,1
-2271,21,apple,3,126383125059211265,Tue Oct 18 19:44:19 +0000 2011,"Hey @Apple, pretty much all your products are amazing. You blow minds every time you launch a new gizmo. That said, your hold music is crap.",3
-2272,459,apple,3,125367492976717824,Sun Oct 16 00:28:34 +0000 2011,@apple http://t.co/awASwV5u,3
-2273,1184,google,1,126494838689513473,Wed Oct 19 03:08:14 +0000 2011,So glad #Google adopted a design philosophy for #Android 4.0 a.k.a It shows soooo much! This is the polish I've been waiting for!,1
-2274,955,apple,0,125806240138928128,Mon Oct 17 05:31:59 +0000 2011,Apparently @Apple genius training doesn't extend to clocks & service. They're half an hour late for my appointment and couldn't let me know?,0
-2275,1215,google,1,126492852615262208,Wed Oct 19 03:00:20 +0000 2011,"Alright, well #Apple just got its ass kicked in the face by #Google so hard with its new Googles #Nexus phone. It will be brilliant.",1
-2276,1515,microsoft,0,126637450008346624,Wed Oct 19 12:34:55 +0000 2011,Nokia employees still worried that Elop is a Microsoft mole http://t.co/n4Cpu3vj #microsoft #windows,0
-2277,769,apple,0,126410591949697024,Tue Oct 18 21:33:28 +0000 2011,@apple needs to hurry up and release #iTunesMatch,0
-2278,1685,twitter,0,126861382078578688,Thu Oct 20 03:24:45 +0000 2011,#twitter still not showin my mothafuckin #retweets . .,0
-2279,130,apple,3,126118389591711744,Tue Oct 18 02:12:21 +0000 2011,"RememberiN wen @apple and @blackberry were just fruit
-#nostalgia",3
-2280,2135,google,2,126494260269821952,Wed Oct 19 03:05:56 +0000 2011,Galaxy Nexus: El nuevo teléfono de Google y Samsung - Gizmología http://t.co/yUYG3KF6 #google,2
-2281,1482,microsoft,0,126704033779023872,Wed Oct 19 16:59:30 +0000 2011,"""Yeh behatreen samay hay parivar honeka"" says the #microsoft #ad in hindi. Preaching family values to indians? Get a local ad agency guys",0
-2282,330,apple,3,125821218258550784,Mon Oct 17 06:31:30 +0000 2011,@paulbentleymelb @apple I think they call that profit-making 'genius',3
-2283,1238,google,1,126490548306579457,Wed Oct 19 02:51:11 +0000 2011,New contact app builds on a magazine style layout and aggregates contact info from multiple sources. Very slick. #Google #Android #ICS,1
-2284,466,apple,3,125359622193295360,Sat Oct 15 23:57:17 +0000 2011,"no kidding “@thejabberwockey: Also @EricGreenspan, don't forget @Apple stop closing the app store after each bloody purchase...”",3
-2285,2169,google,2,126492487111028736,Wed Oct 19 02:58:53 +0000 2011,#ThingsWeAllHate people who think they know it all! hello...your name isn't #Google,2
-2286,1638,twitter,0,126878448575717376,Thu Oct 20 04:32:34 +0000 2011,"RT @ItalianJoya: i better be able to see my RT's tomorrow #twitter and tell that lil blue ass bird, and fat ass over capacity whale to!",0
-2287,1095,google,1,126530189579649024,Wed Oct 19 05:28:42 +0000 2011,"Exciting day, It's Ice cream Sandwich day ;) #Google #Android",1
-2288,1130,google,1,126512728297844736,Wed Oct 19 04:19:19 +0000 2011,RT @RoycinD: FINALLY ! Power + Volume = Screenshot. No more rooting required! #Google #ICS #galaxynexus,1
-2289,1294,google,0,126515822750478337,Wed Oct 19 04:31:37 +0000 2011,RT @LCmediaHouse: 4chan's Chris Poole: #Facebook & #Google Are Doing It Wrong http://t.co/ZIxfa91N | via @RWW #socialmedia,0
-2290,860,apple,0,126127465155403777,Tue Oct 18 02:48:25 +0000 2011,i update to ios 5 and lose everything on my phone and it wont let me sign into my itunes account... thanks @Apple,0
+It's time for another excerpt from the second edition of Music 3.0: A Survival Gui... http://t.co/ePAgAnJB #twitter #news",irrelevant
+4638,twitter,irrelevant,126877791911292928,Thu Oct 20 04:29:57 +0000 2011,RT @VLAD5564: #RT this #Follow all new music #TFB #nymusic. #newmusic #5000aday #1000aday  #twitter #dipset #skullgang #730dips #byrdgan ...,irrelevant
+4639,twitter,irrelevant,126877775830327296,Thu Oct 20 04:29:53 +0000 2011,Sunaa karo merii jaan in se un se afsaane / sab ajnabi hain yahaan kaun kis ko pehchane #Kaifi #Shair #Twitter,irrelevant
+4640,twitter,irrelevant,126877738702344192,Thu Oct 20 04:29:44 +0000 2011,Me identifico mas con #TWITTER q con #FACE xq aqui puedo expresar todo lo q siento x #JUSTIN sin temor a ser criticada!!,irrelevant
+4641,twitter,irrelevant,126877737410502659,Thu Oct 20 04:29:44 +0000 2011,"Nee, heb je vast de tweets gemist tussen @ecoumans & mij?! Jou zal ik zeker nomineren. RT ""@dretoorn: Zo, ben weer bij #twitter""",irrelevant
+4642,twitter,irrelevant,126877693563244544,Thu Oct 20 04:29:34 +0000 2011,@majufedz @EliasMM me retiro otro dia compartimos nuestras #leccionesparalavida con el mundo de #twitter jajaja,irrelevant
+4643,twitter,irrelevant,126877589955543040,Thu Oct 20 04:29:09 +0000 2011,Ella dice que yo soy su Niño del #Twitter *-----*,irrelevant
+4644,twitter,irrelevant,126877547899269120,Thu Oct 20 04:28:59 +0000 2011,"#twitter #detik Mengaku Masih Baru di Kabinet, Cicip Baru Siapkan Program Pekan Depan http://t.co/Y3yOaRiN",irrelevant
+4645,twitter,irrelevant,126877547878289408,Thu Oct 20 04:28:59 +0000 2011,#twitter #detik Hakim Imas Menangis Ikuti Sidang Perdana - Hakim Imas Dianasari tak kuasa menahan air matanya saat d... http://t.co/G3wgjL6R,irrelevant
+4646,twitter,irrelevant,126877547710521344,Thu Oct 20 04:28:59 +0000 2011,#twitter #detik Mahfudz: Ada Parpol yang Mendorong SBY Melepas Menteri PKS http://t.co/hoyXdbDq,irrelevant
+4647,twitter,irrelevant,126877547576311808,Thu Oct 20 04:28:59 +0000 2011,"#twitter #detik Buntut Kongres Rakyat Papua, 2 Orang Ditemukan Tewas http://t.co/S0lUgv4B",irrelevant
+4648,twitter,irrelevant,126877547244945408,Thu Oct 20 04:28:59 +0000 2011,#twitter #detik PKS Akan Abaikan Kontrak Politik dengan SBY - Partai Keadilan Sejahtera (PKS) masih berada di koalis... http://t.co/BbqFnSzm,irrelevant
+4649,twitter,irrelevant,126877540928331777,Thu Oct 20 04:28:57 +0000 2011,Creo que hoy es mi ultimo día en #Twitter,irrelevant
+4650,twitter,irrelevant,126877498981089280,Thu Oct 20 04:28:47 +0000 2011,"Segun lo que me explicarón, fue victima de un hackeo #Twitter",irrelevant
+4651,twitter,irrelevant,126877457675595776,Thu Oct 20 04:28:37 +0000 2011,#Twitter #Pause Cenare :9,irrelevant
+4652,twitter,irrelevant,126877358740344832,Thu Oct 20 04:28:14 +0000 2011,Skype: geovannyacaro como en #twitter @geovannyacaro,irrelevant
+4653,twitter,irrelevant,126877288418639872,Thu Oct 20 04:27:57 +0000 2011,Nu doet alleen #twitter het,irrelevant
+4654,twitter,irrelevant,126877230587576320,Thu Oct 20 04:27:43 +0000 2011,#twitter off me llama mi camita jajaja..,irrelevant
+4655,twitter,irrelevant,126877113348403201,Thu Oct 20 04:27:15 +0000 2011,Ahhhh mi #twitter no caaargaaaaaa!!!,irrelevant
+4656,twitter,irrelevant,126876910788673536,Thu Oct 20 04:26:27 +0000 2011,We're hiring! Immediate openings! #socialmedia #facebook #twitter #hiring #job #owner #marketing #networking http://t.co/3LNiJC9U,irrelevant
+4657,twitter,irrelevant,126876805134159872,Thu Oct 20 04:26:02 +0000 2011,Dime porque demonios existes #Twitter ?! Oh si! Para causarle insomnio a cualquera que pase no?,irrelevant
+4658,twitter,irrelevant,126876741913415681,Thu Oct 20 04:25:47 +0000 2011,RT @DKhazhintsev: Губернатор @VShport рассказывает про #twitter #Хабаровск,irrelevant
+4659,twitter,irrelevant,126876728206438400,Thu Oct 20 04:25:43 +0000 2011,Доброе утро #twitter,irrelevant
+4660,twitter,irrelevant,126876695989985280,Thu Oct 20 04:25:36 +0000 2011,Ternuritas los que creen me la paso conectado al #twitter no saben de las aplicaciones jajaja #Oaxaca,irrelevant
+4661,twitter,irrelevant,126876651551338496,Thu Oct 20 04:25:25 +0000 2011,#Twitter-Splitter (7) – Gottes Kindergarten: Willkommen in der größten Irrenanstalt der Welt! http://t.co/97ynzVRE via @Salecker,irrelevant
+4662,twitter,irrelevant,126876632874106881,Thu Oct 20 04:25:21 +0000 2011,"jisuis, geral nas festinha acha hype ficar só no telephone téc téc téc, gentem, dá um tempo. #twitter #biscates #feios #sms #aloneinthedark",irrelevant
+4663,twitter,irrelevant,126876630491729920,Thu Oct 20 04:25:20 +0000 2011,"good afternoon #twitter... 
+---unkaboggable talaga si # vice ganda sa kanyang # no other horse with @IAmDerekRamsay,Pooh and Chocoleit... :)",irrelevant
+4664,twitter,irrelevant,126876586170523648,Thu Oct 20 04:25:10 +0000 2011,a dormir #twitter off,irrelevant
+4665,twitter,irrelevant,126876547025084416,Thu Oct 20 04:25:00 +0000 2011,troquei meu avatar do #twitter rs.,irrelevant
+4666,twitter,irrelevant,126876538653245440,Thu Oct 20 04:24:58 +0000 2011,Vuelvo a el #Twitter hasta el 07/11/2011 by _ @LLLF_,irrelevant
+4667,twitter,irrelevant,126876463965278208,Thu Oct 20 04:24:40 +0000 2011,Ya me esta empezando a Gustar #Twitter!!:DD,irrelevant
+4668,twitter,irrelevant,126876452326080512,Thu Oct 20 04:24:38 +0000 2011,"@LuceroMexico  Ja lu! chiste! en qe se parese papa pitufo al #twitter???
+en qe los 2 tienen el pajarito Azul ..!  jaja",irrelevant
+4669,twitter,irrelevant,126876390388793344,Thu Oct 20 04:24:23 +0000 2011,"#nomames esta bien frio el #twitter, casi NAIDE twittea xD.",irrelevant
+4670,twitter,irrelevant,126876299556962305,Thu Oct 20 04:24:01 +0000 2011,"I just installed the new Twidroyd for #Twitter on my #Android Phone - It's #Free, give it a try. http://t.co/VDYd7QaW",irrelevant
+4671,twitter,irrelevant,126876220460761088,Thu Oct 20 04:23:42 +0000 2011,Google+ to Support Pseudonyms http://t.co/ms1eBXpx #google+ #googlesocialmedia #googleventures #facebook #twitter #socialmediamarketing,irrelevant
+4672,twitter,irrelevant,126876206003003392,Thu Oct 20 04:23:39 +0000 2011,"RT @NickElPoeta: Saludos a usted que a estás horas sigue en el #facebook y el #twitter..
+bendiciones",irrelevant
+4673,twitter,irrelevant,126876188294643712,Thu Oct 20 04:23:35 +0000 2011,#TwitTer Donde la gente Te confiesan Su Vida sin Preguntar. O_o,irrelevant
+4674,twitter,irrelevant,126876082593992704,Thu Oct 20 04:23:09 +0000 2011,Image update &gt;&gt; : AIDS ad campaign : use condoms -  http://t.co/qZqblIZB #funny #humour #twitter,irrelevant
+4675,twitter,irrelevant,126876080538787841,Thu Oct 20 04:23:09 +0000 2011,checando ... #Facebook  #Twitter,irrelevant
+4676,twitter,irrelevant,126876073337159680,Thu Oct 20 04:23:07 +0000 2011,que quieren decir las listas en #Twitter???,irrelevant
+4677,twitter,irrelevant,126876037689774080,Thu Oct 20 04:22:59 +0000 2011,Niemiecki rząd uruchomił w środę własny kanał na YouTube - Wiadomosci 24: Niemiecki rząd uruchomił w śr... http://t.co/n6Wp2QZv #twitter,irrelevant
+4678,twitter,irrelevant,126875903266529281,Thu Oct 20 04:22:27 +0000 2011,- Pasen Buenas Noches #Twitter'OFF ♥,irrelevant
+4679,twitter,irrelevant,126875893481209858,Thu Oct 20 04:22:24 +0000 2011,Luego de haberme acostado ayer a las 4 de la ma?ana... ahora entiendo por que me ta picando el sue?o!! #Twitter!!!! dejame dormiiiirr!!!,irrelevant
+4680,twitter,irrelevant,126875748484124672,Thu Oct 20 04:21:50 +0000 2011,Puta! No se por que traje los cuadernos para estudiar a la cama si sigo en #twitter #OhShit! T_T,irrelevant
+4681,twitter,irrelevant,126875741869719552,Thu Oct 20 04:21:48 +0000 2011,nossa cade o povo desse #Twitter meu deus,irrelevant
+4682,twitter,irrelevant,126875719912538112,Thu Oct 20 04:21:43 +0000 2011,meu #twitter sem graça .   boa noite e beijos :9,irrelevant
+4683,twitter,irrelevant,126875637720940544,Thu Oct 20 04:21:23 +0000 2011,RT @DicasECommerce_: Use o Twitter Profissionalmente! ~ Dicas E-Commerce e Renda Extra!: http://t.co/k6yAfacy #Twitter #Blog #Ecommerce  ...,irrelevant
+4684,twitter,irrelevant,126875605395456001,Thu Oct 20 04:21:16 +0000 2011,Twitter reconoce el éxito de los tweets patrocinados y prepara nuevos formatos publicitarios http://t.co/CkQiNbQb #twitter,irrelevant
+4685,twitter,irrelevant,126875567168561152,Thu Oct 20 04:21:07 +0000 2011,@diegomendesr_  popularizar o  #twitter ?? Tipo ter seguidores é isso???,irrelevant
+4686,twitter,irrelevant,126875553314783232,Thu Oct 20 04:21:03 +0000 2011,"Se que en estos momentos transmiten soy tu fan, cortesía de #twitter y de @aNgEluSrO",irrelevant
+4687,twitter,irrelevant,126875508662210560,Thu Oct 20 04:20:53 +0000 2011,Ya no sé si la noticia del Zoo de Ohio que me llegó a mi cel. fue sacada o no de #twitter... creo que sí,irrelevant
+4688,twitter,irrelevant,126875401887821825,Thu Oct 20 04:20:27 +0000 2011,"#Tecnologia, sabias que #twitter genera 250 millones de publicaciones al día http://t.co/CA2dK0xH",irrelevant
+4689,twitter,irrelevant,126875254437056512,Thu Oct 20 04:19:52 +0000 2011,Buenas noches para todos felices sueños muuaahhzz!!! gunaiiii #twitter,irrelevant
+4690,twitter,irrelevant,126875239438229504,Thu Oct 20 04:19:48 +0000 2011,#twitter off.. La cama me llama!!!,irrelevant
+4691,twitter,irrelevant,126875209897750528,Thu Oct 20 04:19:41 +0000 2011,@Jess_Haddad D; tonces deja el vicio de #Twitter!! xD,irrelevant
+4692,twitter,irrelevant,126875201072922624,Thu Oct 20 04:19:39 +0000 2011,Buenas noches a todos #Twitter off,irrelevant
+4693,twitter,irrelevant,126875171008163840,Thu Oct 20 04:19:32 +0000 2011,RT @NegooHB: Somos 2 Intao @DehTavares que tem o #Twitter #HAHA,irrelevant
+4694,twitter,irrelevant,126875123457331200,Thu Oct 20 04:19:21 +0000 2011,tempat asik buat curhat #twitter,irrelevant
+4695,twitter,irrelevant,126875039621578752,Thu Oct 20 04:19:01 +0000 2011,RT @teresarod: Tengo lo que a mi me basta para ser feliz #(8) #twitter OFF como? No sabia!!,irrelevant
+4696,twitter,irrelevant,126875031983759360,Thu Oct 20 04:18:59 +0000 2011,"PartyLiveFree #TWITTER FOLLOWERS, #FACEBOOK LIKES, YOUTUBE VIEWS, EMAIL BLASTS, ETC. #getmorefacebookfanpagelikes",irrelevant
+4697,twitter,irrelevant,126875011221946368,Thu Oct 20 04:18:54 +0000 2011,RT @Kcyoungboss: RT @nine_oh SIMPLY DA BEST ON #TWITTER MY TWEEPS @Kcyoungboss @JenniferWarters @TONYTECH818 @Kozak2012 @3010lys @TheLeg ...,irrelevant
+4698,twitter,irrelevant,126874994180497408,Thu Oct 20 04:18:50 +0000 2011,"mi sobrina ve un perfil sin foto en #twitter  y me dice: ¿¿¿QUIEN ES ESE HUEVO???
+""""""JAJAJA,,,,",irrelevant
+4699,twitter,irrelevant,126874967433428992,Thu Oct 20 04:18:44 +0000 2011,@JhodeMrd1 pero siempre pones cosas como pa lee las lea ah? El debe de tener #twitter......Y si no lo es lo va hacer o ya fue tu novio??,irrelevant
+4700,twitter,irrelevant,126874894943260674,Thu Oct 20 04:18:26 +0000 2011,#TeamFollowBack #TFB #MustFollow #MF #FollowNow #FN #FollowFriday #FF #IFB #Twitter #Follow #IFollowBack GET A #SHOUTOUT FOR FOLLOWING ME!!,irrelevant
+4701,twitter,irrelevant,126874749321216000,Thu Oct 20 04:17:52 +0000 2011,Buenas noches #twitter,irrelevant
+4702,twitter,irrelevant,126874719772356608,Thu Oct 20 04:17:45 +0000 2011,Eita q o povo do #twitter foi todos dormir!!!,irrelevant
+4703,twitter,irrelevant,126874707780841472,Thu Oct 20 04:17:42 +0000 2011,@Yerson_Aponte Que conste quedo en el #Twitter !! xD,irrelevant
+4704,twitter,irrelevant,126874706119888896,Thu Oct 20 04:17:41 +0000 2011,@ACRIS_REYS Agora q estava legal acabou. Deixa eu t perguntar. Como eu popularizo o meu #twitter ? Vc tem dicas?;)*,irrelevant
+4705,twitter,irrelevant,126874654055989248,Thu Oct 20 04:17:29 +0000 2011,as indiretaa ta solta hoje nesse #twitter UAHSUAHSUASA' E SO PRA ELA S2,irrelevant
+4706,twitter,irrelevant,126874645587701760,Thu Oct 20 04:17:27 +0000 2011,#Twitter se tarda para cambiar de avatar .-,irrelevant
+4707,twitter,irrelevant,126874549550714880,Thu Oct 20 04:17:04 +0000 2011,Hasta Mañana Que Descansen #Twitter Off !!,irrelevant
+4708,twitter,irrelevant,126874482798370816,Thu Oct 20 04:16:48 +0000 2011,[10/20]何がどうすごい！？ Android4.0の新機能！ ⇒ http://t.co/BUGFa8Xj #twitter,irrelevant
+4709,twitter,irrelevant,126874479291924480,Thu Oct 20 04:16:47 +0000 2011,ぺんてるのデジタルペン、オーリッド社のクラウド型テキスト化サービスと連携 ～スマートフォンからの操作で、手書きのデジタル化から、テキスト化が完結～（CNET Japan） ⇒ http://t.co/jtdAcA2W #twitter,irrelevant
+4710,twitter,irrelevant,126874451500474368,Thu Oct 20 04:16:41 +0000 2011,lo mejor del #twitter es que ahora ya puedes darle el #pesame a tus #artistas desde tu celularrrrrrr!! #sarcasmo,irrelevant
+4711,twitter,irrelevant,126874366775525377,Thu Oct 20 04:16:20 +0000 2011,Buenas noches  #twitter friends! Me despido q me voy a poner hacer mi tarea de acct  q flojera! Pero no se me permite fail any classes ,irrelevant
+4712,twitter,irrelevant,126874348110888960,Thu Oct 20 04:16:16 +0000 2011,Bueno... #twitter OFF ! .... Mañanaa a casa ensamble con @NatiiGutiierrez & @pinkangel_26. :D !! Bona Noche ♥ :),irrelevant
+4713,twitter,irrelevant,126874313423994880,Thu Oct 20 04:16:08 +0000 2011,Bueno... Mañana Es Un Día Largo Y Agitado ;) #TWITTER OF,irrelevant
+4714,twitter,irrelevant,126874273280303104,Thu Oct 20 04:15:58 +0000 2011,#LaAficion al #Twitter es #Perjudicial para la #SaludMental  . Jaja #SiSeñor @JunsCastro! #Hablamos! #Chao jaja #DileaTuMenteQueDescance...,irrelevant
+4715,twitter,irrelevant,126874268779810817,Thu Oct 20 04:15:57 +0000 2011,RT @juancamilo890: @Marbelle30 ...Esta familia de #twitter cada vez crece mas y mas rápidamente estas en 71.406 seguidores y estoy segur ...,irrelevant
+4716,twitter,irrelevant,126874165105008640,Thu Oct 20 04:15:32 +0000 2011,Gamit m din pala #twitter now @akosiadrienne haha! (&gt;̯-̮&lt;),irrelevant
+4717,twitter,irrelevant,126874164039659520,Thu Oct 20 04:15:32 +0000 2011,#Twitter Jogo de Brasil x Argentina em Guadalajara é destaque no Twitter - Terra Brasil http://t.co/8kak5aO7,irrelevant
+4718,twitter,irrelevant,126874157840474113,Thu Oct 20 04:15:31 +0000 2011,hahaha los zombies qe usan #twitter cmo chat sn zombienpndejs...hahahahhaha,irrelevant
+4719,twitter,irrelevant,126874145408561152,Thu Oct 20 04:15:28 +0000 2011,@_Pao92 ah bueno!!! jeje ta bn... ps aqui #fb y #twitter . jeje x cierto ya no me sta siguiendo vdd?? :'( ahorita vi mis seguidores y no sta,irrelevant
+4720,twitter,irrelevant,126874136017518593,Thu Oct 20 04:15:25 +0000 2011,"RT @Xuuxinha_: o #twitter pedi : no que esta pensando agora ? se fosse pra mim só falar isso, iria ficar escrevendo o dia inteiro milena ...",irrelevant
+4721,twitter,irrelevant,126874079239217153,Thu Oct 20 04:15:12 +0000 2011,"Querida @mamá, te escribo esta #carta para dejarte tranquila, no estoy todo el tiempo en #Twitter. Fav para papá y un RT para ti.",irrelevant
+4722,twitter,irrelevant,126874040261545985,Thu Oct 20 04:15:03 +0000 2011,"Visualiza tus emails, menciones en #twitter, eventos de #facebook y más, desde Centro de notificaciones de #IOS 5 http://t.co/BsFmwKFH",irrelevant
+4723,twitter,irrelevant,126874002084990976,Thu Oct 20 04:14:53 +0000 2011,Buenas Noches que descansen #Twitter #OF ZzzzzZzzzzz,irrelevant
+4724,twitter,irrelevant,126873944501399552,Thu Oct 20 04:14:40 +0000 2011,Ahora el #Facebook Imita al #Msn y #Twitter :/,irrelevant
+4725,twitter,irrelevant,126873912515624960,Thu Oct 20 04:14:32 +0000 2011,#GoodNightPeople Hasta Mñn #Twitter :B,irrelevant
+4726,twitter,irrelevant,126873902499635200,Thu Oct 20 04:14:30 +0000 2011,Somos 2 Intao @DehTavares que tem o #Twitter #HAHA,irrelevant
+4727,twitter,irrelevant,126873886938763264,Thu Oct 20 04:14:26 +0000 2011,HABER FACEBOOK por que no entretienes a tu gente para que ya no se nos vaya #TWITTER tanta plebe ¬¬,irrelevant
+4728,twitter,irrelevant,126873874909507584,Thu Oct 20 04:14:23 +0000 2011,Acaso #twitter muestra la mayor parte de lo que pensamos???,irrelevant
+4729,twitter,irrelevant,126873816319262721,Thu Oct 20 04:14:09 +0000 2011,"¿Desde cuándo #Twitter desactivó para todos la opción ""Los RTs de esta persona aparecerán en tu TL""?",irrelevant
+4730,twitter,irrelevant,126873785512116225,Thu Oct 20 04:14:02 +0000 2011,#BOANOITE #TWITTER  . SAINDO \Õ  . #CHUPAFLAMENGO,irrelevant
+4731,twitter,irrelevant,126873756437200896,Thu Oct 20 04:13:55 +0000 2011,"@IsabelSalazarJ @PremiosTWCo y en el HT #Twitter eres tambn cabeza con 44 votos Isa, tienes lo votos regados con HT #yovotopor tienes 1",irrelevant
+4732,twitter,irrelevant,126873660442148865,Thu Oct 20 04:13:32 +0000 2011,Creo k ya me saldre de #Twitter,irrelevant
+4733,twitter,irrelevant,126873596080558082,Thu Oct 20 04:13:17 +0000 2011,"ja volto #twitter , vou na cozinha .",irrelevant
+4734,twitter,irrelevant,126873574895140864,Thu Oct 20 04:13:12 +0000 2011,Disculpame #twitter te e tenido algo avandonado este dia,irrelevant
+4735,twitter,irrelevant,126873447912587264,Thu Oct 20 04:12:41 +0000 2011,pues esto fue todo por hoy! ;D bye #FB sigo un rato más por #twitter,irrelevant
+4736,twitter,irrelevant,126873417126383616,Thu Oct 20 04:12:34 +0000 2011,Ya me dieron ganas de iniciar una campaña mediática en #twitter... para mandar al Espinoza al INEA #SóloenMéxico,irrelevant
+4737,twitter,irrelevant,126873407487881217,Thu Oct 20 04:12:32 +0000 2011,"vo sair daki do #twitter já :) só vo ver uns videos aki , e já to indo ,",irrelevant
+4738,twitter,irrelevant,126873260385239040,Thu Oct 20 04:11:57 +0000 2011,Lo Bueno de #twitter es que no cualquier babos@ Tiene . Claro que hay unos casos que.............,irrelevant
+4739,twitter,irrelevant,126873138079346688,Thu Oct 20 04:11:27 +0000 2011,#TeamFollowBack #TFB #MustFollow #MF #FollowNow #FN #FollowFriday #FF #IFB #Twitter #Follow @CocaCola_Korea @ThisIsDoyin_,irrelevant
+4740,twitter,irrelevant,126873037982281729,Thu Oct 20 04:11:04 +0000 2011,lo mejor de #twitter es que no tenes que esperar un monton a que carge tu foto:D♥,irrelevant
+4741,twitter,irrelevant,126873004494954496,Thu Oct 20 04:10:56 +0000 2011,#twitter Off a dormir para no pensar en ti!,irrelevant
+4742,twitter,irrelevant,126872948022849536,Thu Oct 20 04:10:42 +0000 2011,MEU #TWITTER TA TÃO MOVIMENTADO ;D ai sim em !,irrelevant
+4743,twitter,irrelevant,126872939638439936,Thu Oct 20 04:10:40 +0000 2011,Me Ausenteii por mutivos que me DeixaramTriste mais #Twitter  Estou de Volta uhuruoooo!!!!,irrelevant
+4744,twitter,irrelevant,126872936568201216,Thu Oct 20 04:10:39 +0000 2011,Ya tengo sueño y mañana madrugo DDD: #HastaMañana #TweetOff Pstd: #Twitter produce #insomnio y es tan #Pocesivo e.e #bye !! #siguemeytesigo,irrelevant
+4745,twitter,irrelevant,126872919480610816,Thu Oct 20 04:10:35 +0000 2011,"@Brandon_Solano hahaha, ve pues xD Ok bye' de #twitter ILTSM!' (LL' &lt;3",irrelevant
+4746,twitter,irrelevant,126872906738319360,Thu Oct 20 04:10:32 +0000 2011,"@ayrontrompete Beleza. Mande mesmo por DM , que assim que eu entrar no #twitter. Eu pego e coloco lá no site !",irrelevant
+4747,twitter,irrelevant,126872886232363008,Thu Oct 20 04:10:27 +0000 2011,@elias_elegantes voltoo a gosta do #TWITTER ?,irrelevant
+4748,twitter,irrelevant,126872881417293824,Thu Oct 20 04:10:26 +0000 2011,Si eso pasa cierro mi cuenta de #twitter! D':,irrelevant
+4749,twitter,irrelevant,126872771929182209,Thu Oct 20 04:10:00 +0000 2011,hahahhaha´ no puedo usar el #twitter por laa compuu,irrelevant
+4750,twitter,irrelevant,126872763221819392,Thu Oct 20 04:09:58 +0000 2011,Saino Aki #Twitter,irrelevant
+4751,twitter,irrelevant,126872483394621440,Thu Oct 20 04:08:51 +0000 2011,@samixitoledo jajajaja pero no kiere decir q m vas a dejar de hablar adems el mio amore no tiene #Twitter. Jajaja,irrelevant
+4752,twitter,irrelevant,126872365211725824,Thu Oct 20 04:08:23 +0000 2011,Tengo lo que a mi me basta para ser feliz #(8) #twitter OFF,irrelevant
+4753,twitter,irrelevant,126872362007277568,Thu Oct 20 04:08:22 +0000 2011,yo se q el pajarito de #twitter tanbien come maicillo XD,irrelevant
+4754,twitter,irrelevant,126872326095638528,Thu Oct 20 04:08:14 +0000 2011,#Camilokas #Valelokas #Twitter@s y mi #LalyLoka Hasta mañana! Qe tengan lindos! Son increibles! LQM!! Mil bss =),irrelevant
+4755,twitter,irrelevant,126872241693667328,Thu Oct 20 04:07:54 +0000 2011,@AndhixD yaaa hehhe q habras echo toda la tardee mmm no no maaal maaal! Haha oye algo le pasa a mi #twitter ☹,irrelevant
+4756,twitter,irrelevant,126872218025213952,Thu Oct 20 04:07:48 +0000 2011,Quem não tem um #TWITTER que atire a primeira pedraaaa,irrelevant
+4757,twitter,irrelevant,126872199620591617,Thu Oct 20 04:07:44 +0000 2011,deberia de ponerme a leer un libro en lugar de estar perdiendo el tiempo en #fb y #twitter :(,irrelevant
+4758,twitter,irrelevant,126872143593095168,Thu Oct 20 04:07:30 +0000 2011,"Bonjour #twitter , reveil trés difficile pour ma part.. !",irrelevant
+4759,twitter,irrelevant,126872127986073600,Thu Oct 20 04:07:27 +0000 2011,God morgon #Sverige och #Twitter !,irrelevant
+4760,twitter,irrelevant,126872084679892993,Thu Oct 20 04:07:16 +0000 2011,Que buenas frases que hay en #twitter me parece que voy a hacer un libro! jaja,irrelevant
+4761,twitter,irrelevant,126872039138131968,Thu Oct 20 04:07:05 +0000 2011,Cualquier contenido en #twitter con palabras u oraciones soez el propietario no se hace responsable por daños a la moral d c/quien! #hedicho,irrelevant
+4762,twitter,irrelevant,126872023552102400,Thu Oct 20 04:07:02 +0000 2011,Buenas noches a todos :) #twitter off,irrelevant
+4763,twitter,irrelevant,126871950185345024,Thu Oct 20 04:06:44 +0000 2011,@nelsonfenc recupere el #twitter para mi #iPODzombi!! #EpicWin de nuevo!!! ;-),irrelevant
+4764,twitter,irrelevant,126871942799175682,Thu Oct 20 04:06:42 +0000 2011,Quem não tem um #TWITTER que atire a primeira pedra!,irrelevant
+4765,twitter,irrelevant,126871914579898369,Thu Oct 20 04:06:36 +0000 2011,@hiarly iae meu brother .. min siga ae no #twitter .. ta lembrado de min né ?,irrelevant
+4766,twitter,irrelevant,126871909177626626,Thu Oct 20 04:06:34 +0000 2011,"Justo cuando aprendes a usar Twitter, ya no podés salir. #Twitter",irrelevant
+4767,twitter,irrelevant,126871907302785024,Thu Oct 20 04:06:34 +0000 2011,Awwwwr me encanta #Twitter porque por este medio desquito todo mis corajes,irrelevant
+4768,twitter,irrelevant,126871890890461184,Thu Oct 20 04:06:30 +0000 2011,el #twitter es demasiado adictivo $:,irrelevant
+4769,twitter,irrelevant,126871890320035841,Thu Oct 20 04:06:30 +0000 2011,Use o Twitter Profissionalmente! ~ Dicas E-Commerce e Renda Extra!: http://t.co/k6yAfacy #Twitter #Blog #Ecommerce #Brasil #Marketing,irrelevant
+4770,twitter,irrelevant,126871852185436160,Thu Oct 20 04:06:21 +0000 2011,vou #fazer uma #montagem com minhas #fotos para colocar como #plano de fundo aki no #twitter!!!!!!!!!!!!,irrelevant
+4771,twitter,irrelevant,126871831583002625,Thu Oct 20 04:06:16 +0000 2011,@ferisykes por fi te encuentro en #Twitter :DD,irrelevant
+4772,twitter,irrelevant,126871719557341184,Thu Oct 20 04:05:49 +0000 2011,Quien no ha creado otra cuenta en #twitter para seguirse? Yo si #Mevalehuevo,irrelevant
+4773,twitter,irrelevant,126871696887132160,Thu Oct 20 04:05:44 +0000 2011,"#Twitter, definitivamente... me distraes de mis labores importantes! xD",irrelevant
+4774,twitter,irrelevant,126871658991599616,Thu Oct 20 04:05:35 +0000 2011,RT @JuanJimenez_V: Tan linda #MiN' me arreglo el #Twitter de nuevoooo!! ♥,irrelevant
+4775,twitter,irrelevant,126871512195145729,Thu Oct 20 04:05:00 +0000 2011,#twitter off buenas noches:$,irrelevant
+4776,twitter,irrelevant,126871511305961473,Thu Oct 20 04:05:00 +0000 2011,"##FB & ##Twitter ##Off! Buenas Nochees(:
+Espero verte en mis sueños...
+Naah, de todas formas te veo mañana! XD",irrelevant
+4777,twitter,irrelevant,126871498832097280,Thu Oct 20 04:04:57 +0000 2011,JESUS tantos pinches siglos sin escribir en Ti Mi Querido #Twitter&lt;3,irrelevant
+4778,twitter,irrelevant,126871426107047936,Thu Oct 20 04:04:39 +0000 2011,A Dormiir Deskanseeeen sueñen & duermaan ricoo!! :) #Twitter OFF!!,irrelevant
+4779,twitter,irrelevant,126871277813239808,Thu Oct 20 04:04:04 +0000 2011,"@Olsensn osea, #fb no me notificó del inbox de los planes de la boda...por eso uso más el #twitter ¬¬' anyway, ya contesté por fin! =)",irrelevant
+4780,twitter,irrelevant,126871263250620416,Thu Oct 20 04:04:00 +0000 2011,RT @alisalam1990: البايو في تويتر مثل عناوين المنازل لا تكشف عن صاحبها إلا إذا دخلت التايم لاين ، فإما تجد تطابق أو كأنك دخلت بيت عنوانه ...,irrelevant
+4781,twitter,irrelevant,126871213732671488,Thu Oct 20 04:03:49 +0000 2011,Entre al #Twitter solo para desahogarme! :B,irrelevant
+4782,twitter,irrelevant,126871199362990081,Thu Oct 20 04:03:45 +0000 2011,"#Twitter es como el alcohol: Empiezas por curiosidad, luego socializar, después por diversión y terminas en adicción. / soy ya alcohólico ;)",irrelevant
+4783,twitter,irrelevant,126871089929392128,Thu Oct 20 04:03:19 +0000 2011,"alejado de #twitter y #facebook mi vida esta vacia, ya ni tiempo tengo de quejarme....",irrelevant
+4784,twitter,irrelevant,126871084950749184,Thu Oct 20 04:03:18 +0000 2011,"·Bueno """"#twitter #OoF q paSen Buenas nOChe...!! @rubioCoTiZe #Acuerdese ya tah buenOh haha xD",irrelevant
+4785,twitter,irrelevant,126870987559026688,Thu Oct 20 04:02:55 +0000 2011,Tengo olvidado mi #twitter :S,irrelevant
+4786,twitter,irrelevant,126870943330091008,Thu Oct 20 04:02:44 +0000 2011,Tan linda #MiN' me arreglo el #Twitter de nuevoooo!! ♥,irrelevant
+4787,twitter,irrelevant,126870919590330369,Thu Oct 20 04:02:39 +0000 2011,#Twitter Off A Mimir Tempranitoo Muahh Los Quiero A Todos Que Duerman bn,irrelevant
+4788,twitter,irrelevant,126870916729810944,Thu Oct 20 04:02:38 +0000 2011,Típico que el #Facebook a esta hora aburre y el #twitter me desvela,irrelevant
+4789,twitter,irrelevant,126870873176150017,Thu Oct 20 04:02:27 +0000 2011,RT @SaeldesN: @AndeersonF_ è Nóis Indicar eu ai no teu #twitter Pra Galera Seguir Pode Ser ' ?,irrelevant
+4790,twitter,irrelevant,126870813839335424,Thu Oct 20 04:02:13 +0000 2011,De verdd qe si me he sentidoo rara estar un Dia sin mucho #twitter :B,irrelevant
+4791,twitter,irrelevant,126870802837680128,Thu Oct 20 04:02:11 +0000 2011,"@Angelina_adr Se que Utiliza más Pin que #Twitter & que #Facebook, agrega hay pin: 2178D655",irrelevant
+4792,twitter,irrelevant,126870669492359169,Thu Oct 20 04:01:39 +0000 2011,@AndeersonF_ è Nóis Indicar eu ai no teu #twitter Pra Galera Seguir Pode Ser ' ?,irrelevant
+4793,twitter,irrelevant,126870663758757888,Thu Oct 20 04:01:38 +0000 2011,@adictoTR solo pajas escribis en el #Twitter va jejee,irrelevant
+4794,twitter,irrelevant,126870566916456448,Thu Oct 20 04:01:14 +0000 2011,Están de flojera los topic tender en #twitter,irrelevant
+4795,twitter,irrelevant,126870498452832256,Thu Oct 20 04:00:58 +0000 2011,"#iMessage يتجاوز تويتر ويجد رفيقا للمشي قبل 
+#Twitter !!
+هل الأصدقاء الواقع أقرب من أصدقاء العالم الافتراضي؟",irrelevant
+4796,twitter,irrelevant,126870493402898434,Thu Oct 20 04:00:57 +0000 2011,Porra mo0 cara que nao entro no #TWITTER mais um Salve pra vc's e amanha tem mais flllws pra quem fika  bora laah pra quem vai ksoaksopk,irrelevant
+4797,twitter,irrelevant,126870445659131904,Thu Oct 20 04:00:46 +0000 2011,Google Apps Coming To Google+ ‘Within Days’; Company Taking A ‘Cautious Approach’ To APIs http://t.co/1rgAI0RH #twitter,irrelevant
+4798,twitter,irrelevant,126870402910797826,Thu Oct 20 04:00:35 +0000 2011,Nadie es tan lind@ como en la foto del #twitter y tampoco tan feo como en la foto de la cedula...,irrelevant
+4799,twitter,irrelevant,126870391774908416,Thu Oct 20 04:00:33 +0000 2011,@8_ivonne @1_Ddanille  ahhahahaha noceee asaber porq me llamo y digo ke me cnectara a #twitter pero niiiiii cntestaaaa-!!!,irrelevant
+4800,twitter,irrelevant,126870381867966465,Thu Oct 20 04:00:30 +0000 2011,#Facebook y #Twitter me volverán loco! :$!,irrelevant
+4801,twitter,irrelevant,126870318764662784,Thu Oct 20 04:00:15 +0000 2011,Sigue ah @KhrizJoohn  con su nueva cuenta en #Twitter,irrelevant
+4802,twitter,irrelevant,126870301471551489,Thu Oct 20 04:00:11 +0000 2011,@pimentta_qzl  kkkkatat  agora  ame maais  eu amo um tantão que não cabe nesse post do #twitter ...,irrelevant
+4803,twitter,irrelevant,126870289861718016,Thu Oct 20 04:00:08 +0000 2011,"@Andrees_ramos Jajajajaja ya se que etsamos en #Twitter baboso pero yo lo vi en FB, INBOX pues!",irrelevant
+4804,twitter,irrelevant,126870079798378497,Thu Oct 20 03:59:18 +0000 2011,Ala tengo a #twitter asi o mas abandonado :$,irrelevant
+4805,twitter,irrelevant,126870058050912256,Thu Oct 20 03:59:13 +0000 2011,"RT @Azizshalan: تويتر: قريباً بإمكان اي مستخدم الرجوع لتغريداتة القديمة والرسائل الخاصة ايضاً 
+
+#GoodNews
+ #Twitter",irrelevant
+4806,twitter,irrelevant,126870004766478336,Thu Oct 20 03:59:00 +0000 2011,RT @Yvandavid: RT @Yonopienso_: RT @Anyelius12: RT @Yonopienso_: RT @Yvandavid: Que lo mataron por #Twitter ya RT @Yonopienso_: ¿Que le  ...,irrelevant
+4807,twitter,irrelevant,126869995610324993,Thu Oct 20 03:58:58 +0000 2011,@adrianosabino2 Maagiina amoor! Tavaa #Off esses diias akii noo #Twitter meesmoo! fiica triste cmg naaum taa?,irrelevant
+4808,twitter,irrelevant,126869990535217152,Thu Oct 20 03:58:57 +0000 2011,Un generador de partículas subatomicas marca Acme es mas divertido que ver a una mosca dormir... #hedicho #Twitter #Off,irrelevant
+4809,twitter,irrelevant,126869983769788417,Thu Oct 20 03:58:55 +0000 2011,#ok #NoEntiendo todo esto del #Twitter pero ya tengo el mío... SIGANME los buenos #FF #Followers,irrelevant
+4810,twitter,irrelevant,126869957085634560,Thu Oct 20 03:58:49 +0000 2011,"#twitter casi no te pelo, lo siento u.u JAJA",irrelevant
+4811,twitter,irrelevant,126869921996091392,Thu Oct 20 03:58:41 +0000 2011,@DesirePoulain Ya vi que si le entendiste al #Twitter :D,irrelevant
+4812,twitter,irrelevant,126869901922152448,Thu Oct 20 03:58:36 +0000 2011,RT @Yonopienso_: RT @Anyelius12: RT @Yonopienso_: RT @Yvandavid: Que lo mataron por #Twitter ya RT @Yonopienso_: ¿Que le paso a Osmel?xD.,irrelevant
+4813,twitter,irrelevant,126869798419300352,Thu Oct 20 03:58:11 +0000 2011,RT @MizzSpicey: #TeamFollowBack #TFB #MustFollow #MF #FollowNow #FN #FollowFriday #FF #IFB #Twitter #Follow @DrunkedOutTeezy,irrelevant
+4814,twitter,irrelevant,126869705620332544,Thu Oct 20 03:57:49 +0000 2011,RT @Anyelius12: RT @Yonopienso_: RT @Yvandavid: Que lo mataron por #Twitter ya RT @Yonopienso_: ¿Que le paso a Osmel?xD.,irrelevant
+4815,twitter,irrelevant,126869683449233408,Thu Oct 20 03:57:44 +0000 2011,@Unipamplona las clases empiezan el 24 de octubre ?... Espefifiquen en los 140caracteres del #twitter no coloquen enlaces que no abren..,irrelevant
+4816,twitter,irrelevant,126869567061495808,Thu Oct 20 03:57:16 +0000 2011,"@raellenkoga_ kk , isso porque eu ttinha #twitter antes de você, mais ttinha esqueciido de tudo :S kkkkkkk",irrelevant
+4817,twitter,irrelevant,126869527416938496,Thu Oct 20 03:57:07 +0000 2011,Mi nuevo amor #Twitter *O* Facebook qedo atras! :DD Lo cerrare despues de mi cumpleaños & me qedare con twatter para 100pre! ^^ (:,irrelevant
+4818,twitter,irrelevant,126869515983257600,Thu Oct 20 03:57:04 +0000 2011,Los 10 nuevos mandamientos de #Twitter http://t.co/1B8iNhTV @entrebits_com,irrelevant
+4819,twitter,irrelevant,126869499046670336,Thu Oct 20 03:57:00 +0000 2011,#ooff #TWITTER     NOS VEMOS,irrelevant
+4820,twitter,irrelevant,126869440276078592,Thu Oct 20 03:56:46 +0000 2011,@JonathanGodin Je crois que #Twitter devra ajuster ces petit problèmes désagréable !,irrelevant
+4821,twitter,irrelevant,126869422857142272,Thu Oct 20 03:56:42 +0000 2011,#twitter me esta absorbiendo D:,irrelevant
+4822,twitter,irrelevant,126869344851472384,Thu Oct 20 03:56:23 +0000 2011,@Marbelle30 ...Esta familia de #twitter cada vez crece mas y mas rápidamente estas en 71.406 seguidores y estoy seguro que serán muchos mas.,irrelevant
+4823,twitter,irrelevant,126869327222804480,Thu Oct 20 03:56:19 +0000 2011,"""Mejorar la calidad de la educación"" A la señora ministra le bastaria los 140 caracteres de #twitter para explicar su grandiosa reforma.",irrelevant
+4824,twitter,irrelevant,126869308029669376,Thu Oct 20 03:56:14 +0000 2011,RT @igobythenameofA: #Follow2gain #Followme #1000ADAY #TEAMFOLLOWBACK #twitter #200aday #500aday #Followme #f4f #ff #tl #INSTANFOLLOWBAC ...,irrelevant
+4825,twitter,irrelevant,126869231693348865,Thu Oct 20 03:55:56 +0000 2011,"@tryladis bienvenida a #Twitter que bueno tenerte por aquí, esto es genial  :)",irrelevant
+4826,twitter,irrelevant,126869213980786688,Thu Oct 20 03:55:52 +0000 2011,A mi #twitter le pica.,irrelevant
+4827,twitter,irrelevant,126869163250679810,Thu Oct 20 03:55:40 +0000 2011,RT @icurioso: La famosa frase “ME LO DIJO UN PAJARITO” ya tiene sentido gracias a #Twitter!,irrelevant
+4828,twitter,irrelevant,126869159341604866,Thu Oct 20 03:55:39 +0000 2011,"Excelente mi Ranking Global en #Twitter estoy entre  4,551 de 18,299,114 :o Gracias a Ustedes y a sus RT y en Venezuela estoy de #250 yes Sr",irrelevant
+4829,twitter,irrelevant,126869146045644800,Thu Oct 20 03:55:36 +0000 2011,#TRUE RT @ELDESTRIPAPUTAS YO SOY LO MAS CABRON QUE HA NACIDO EN #TWITTER .. QUIEN ES TWITTERO ANTIGUO LO SABE DESDE NOVIEMBRE DEL 2010,irrelevant
+4830,twitter,irrelevant,126869110901575680,Thu Oct 20 03:55:27 +0000 2011,RT @Yonopienso_: RT @Yvandavid: Que lo mataron por #Twitter ya RT @Yonopienso_: ¿Que le paso a Osmel?xD.,irrelevant
+4831,twitter,irrelevant,126869094610907136,Thu Oct 20 03:55:23 +0000 2011,#Fcbk empieza a agregar nuevas aplicaciones volviendose cada vez mas obsoleto y aburrido... #Twitter es mejor que #fcbk #hedicho #jum,irrelevant
+4832,twitter,irrelevant,126869070292320256,Thu Oct 20 03:55:18 +0000 2011,Llega un momento que #twitter es tu desahogo,irrelevant
+4833,twitter,irrelevant,126869031180451840,Thu Oct 20 03:55:08 +0000 2011,jajajaja ;)  ps q mas se hace En #Twitter @PilarGarciaM,irrelevant
+4834,twitter,irrelevant,126869021969756161,Thu Oct 20 03:55:06 +0000 2011,@matudelatower Se dieron cuenta que si ponen la T de #Twitter dada vuelta queda la F de #Facebook?  // PLOP PLOP PLOP,irrelevant
+4835,twitter,irrelevant,126868980664250369,Thu Oct 20 03:54:56 +0000 2011,"Mañana entro hasta las 9:30 así q quiero dsvelarme, platiquenme lo q sea o al menos diganme qn sta n #twitter, den alguna señal de vida !!!",irrelevant
+4836,twitter,irrelevant,126868846517817344,Thu Oct 20 03:54:24 +0000 2011,De regreso al mundo #Twitter,irrelevant
+4837,twitter,irrelevant,126868773562089472,Thu Oct 20 03:54:07 +0000 2011,Se dieron cuenta que si ponen la T de #Twitter dada vuelta queda la F de #Facebook?,irrelevant
+4838,twitter,irrelevant,126868680003960833,Thu Oct 20 03:53:45 +0000 2011,tava fazendo o #twitter da minha irmã kkk,irrelevant
+4839,twitter,irrelevant,126868673213378560,Thu Oct 20 03:53:43 +0000 2011,Nada como darle vida de nuevo a mi #twitter...,irrelevant
+4840,twitter,irrelevant,126868623645089792,Thu Oct 20 03:53:31 +0000 2011,Vou Dormir . Boa Noite Galera Do #Twitter E Do #Facebook,irrelevant
+4841,twitter,irrelevant,126868612408553472,Thu Oct 20 03:53:28 +0000 2011,RT @IsmaelitoDrums: VolviiendoO Ah #Twitter .! haha Diios Les Bendiiga,irrelevant
+4842,twitter,irrelevant,126868611922010112,Thu Oct 20 03:53:28 +0000 2011,"@TebanRk @criszambrano23 oí a estos menes ome, cuando he dicho ""jajaja, patos?"" en el #twitter?... Jamás!!",irrelevant
+4843,twitter,irrelevant,126868601721462784,Thu Oct 20 03:53:26 +0000 2011,Que según un humano puede decir 4800 palabras en 24 horas... Y cuando no hay con quien vomitarlas todas?? A cierto el chat o #twitter,irrelevant
+4844,twitter,irrelevant,126868586882007041,Thu Oct 20 03:53:22 +0000 2011,"@melo_gabby Sao os assuntos mais comentados do mundo no #Twitter. Mas o que eu queria que vc visse, nao ta mais la.",irrelevant
+4845,twitter,irrelevant,126868539784183808,Thu Oct 20 03:53:11 +0000 2011,"HAHAHA, éee ne pelo #twitter, até #garotanachuva canta beeem, #kkk,!  voo grava uma  shamada de vooz pra voce ouvir! tenho mt sucesso ! #kkk",irrelevant
+4846,twitter,irrelevant,126868539641577472,Thu Oct 20 03:53:11 +0000 2011,RT @ELDESTRIPAPUTAS: YO SOY LO MAS CABRON QUE HA NACIDO EN #TWITTER .. QUIEN ES TWITTERO ANTIGUO LO SABE DESDE NOVIEMBRE DEL 2010,irrelevant
+4847,twitter,irrelevant,126868472515928064,Thu Oct 20 03:52:55 +0000 2011,Bienvenida a #twitter @adyalessio asi q @christianstraw @afetati @Zul3Rivera den #Follow please!! X q hubo un error d dedo hace un rato!!,irrelevant
+4848,twitter,irrelevant,126868462336348162,Thu Oct 20 03:52:53 +0000 2011,YO SOY LO MAS CABRON QUE HA NACIDO EN #TWITTER .. QUIEN ES TWITTERO ANTIGUO LO SABE DESDE NOVIEMBRE DEL 2010,irrelevant
+4849,twitter,irrelevant,126868364927827968,Thu Oct 20 03:52:29 +0000 2011,probando la videollamada en facebook......buenooooo en esto si le ganaron a #Twitter........,irrelevant
+4850,twitter,irrelevant,126868357625548800,Thu Oct 20 03:52:28 +0000 2011,@melkoff pues bienvenida vas a ver que pronto le encontraras sentido   es la onda el #twitter,irrelevant
+4851,twitter,irrelevant,126868352835661824,Thu Oct 20 03:52:27 +0000 2011,#Osea jajaja me entero que ahora en el #Twitter se blokea gente mis supuestros primos me blokearon #Lol,irrelevant
+4852,twitter,irrelevant,126868349396324352,Thu Oct 20 03:52:26 +0000 2011,@luhhcavalcante Aqui no #Twitter num pode dizer ne?  tudo bem...  depois vc me conta das cachaça. ahuahauahuahuahuahau,irrelevant
+4853,twitter,irrelevant,126868328659693568,Thu Oct 20 03:52:21 +0000 2011,@IrinaAlfonzo por eso siempre he dicho! El #FB es para q todos vean lo q haces y chismeen y el #Twitter es mas #informativo,irrelevant
+4854,twitter,irrelevant,126868322431143937,Thu Oct 20 03:52:19 +0000 2011,me encanta la pareja de @lari_riquelme en el #bailando2011! pasame su #twitter!,irrelevant
+4855,twitter,irrelevant,126868256479920128,Thu Oct 20 03:52:04 +0000 2011,@alegarcia001. Feliz aniversario !!! Que sean muy felices juntos y que cumplan muchos años mas !!!! Jajaja #twitter,irrelevant
+4856,twitter,irrelevant,126868229409865728,Thu Oct 20 03:51:57 +0000 2011,#yoconfieso que llevo 2 dias fuera de #twitter y mi vida no ha sido la misma. Los extrané ,irrelevant
+4857,twitter,irrelevant,126868208924884993,Thu Oct 20 03:51:52 +0000 2011,"RT @iTuSabias: Aléjate de las redes sociales si acabas de terminar una relación, en #Twitter leerás las razones y en #Facebook verás por ...",irrelevant
+4858,twitter,irrelevant,126868204881580032,Thu Oct 20 03:51:51 +0000 2011,RT @CarsiMeister: Lite para que sirve despues de todo si tengo a #Twitter,irrelevant
+4859,twitter,irrelevant,126868198032281600,Thu Oct 20 03:51:50 +0000 2011,Na real vou sair do #Twitter!!,irrelevant
+4860,twitter,irrelevant,126868196295843840,Thu Oct 20 03:51:49 +0000 2011,"@EilsonOliveira a roupa num tira , mais os dedos no #twitter heheh #saudades",irrelevant
+4861,twitter,irrelevant,126868167921373185,Thu Oct 20 03:51:42 +0000 2011,RT @Yvandavid: Que lo mataron por #Twitter ya RT @Yonopienso_: ¿Que le paso a Osmel?xD.,irrelevant
+4862,twitter,irrelevant,126868148879241216,Thu Oct 20 03:51:38 +0000 2011,Che a alguien le gusta mi nuevo fondo o mi icono de #twitter ? :o,irrelevant
+4863,twitter,irrelevant,126868137827250176,Thu Oct 20 03:51:35 +0000 2011,Ta medio tela hoy el #twitter #twitteroff & goodnight 4 everyone!,irrelevant
+4864,twitter,irrelevant,126868136531197952,Thu Oct 20 03:51:35 +0000 2011,@Mayra_Moreno1 #congrats ya sabes usar #twitter jajajaja #loveu,irrelevant
+4865,twitter,irrelevant,126867955844788225,Thu Oct 20 03:50:52 +0000 2011,"Hehehe =} @SidyRM Pois é,Fazer o q né? O #Twitter Não #Vive Sem Miim ! Ou Sera o #Contrário ? Sei lá ... kkk =)",irrelevant
+4866,twitter,irrelevant,126867858461433857,Thu Oct 20 03:50:29 +0000 2011,@NahuN_Robles jajaja fregues de #TWITTER x'D,irrelevant
+4867,twitter,irrelevant,126867818242248704,Thu Oct 20 03:50:19 +0000 2011,@Giovanettinico Ojo que @JorgeHillcoat le esta metiendo con #Twitter .. Lo veo entusiasmado .. Faltaria @JokinImanol nada mas ..,irrelevant
+4868,twitter,irrelevant,126867784494891008,Thu Oct 20 03:50:11 +0000 2011,#Twitter off mii voii..!!,irrelevant
+4869,twitter,irrelevant,126867765343686656,Thu Oct 20 03:50:07 +0000 2011,Lite para que sirve despues de todo si tengo a #Twitter,irrelevant
+4870,twitter,irrelevant,126867764282540032,Thu Oct 20 03:50:06 +0000 2011,VolviiendoO Ah #Twitter .! haha Diios Les Bendiiga,irrelevant
+4871,twitter,irrelevant,126867715947368449,Thu Oct 20 03:49:55 +0000 2011,Me encanta vacilar y ver tantas cosas en el #Twitter cada vez estoy mas #enamorado de este medio de comunicacion es #unico,irrelevant
+4872,twitter,irrelevant,126867510288072705,Thu Oct 20 03:49:06 +0000 2011,"@JorgeHillcoat Hola Jorge, todo bien ? Me alegro que le estes metiendo onda a #Twitter ! Mañana te cuento .. Me jodi el tobillo .. Abrazo !",irrelevant
+4873,twitter,irrelevant,126867253609234433,Thu Oct 20 03:48:05 +0000 2011,eo tenho a mania de entrar no #TWITTER  i respondeeer as coisas ki mi mandão kkkkkkkkkkkkk,irrelevant
+4874,twitter,irrelevant,126867181358170112,Thu Oct 20 03:47:47 +0000 2011,"Bueno,buenas noche.#twitter",irrelevant
+4875,twitter,irrelevant,126867170742374400,Thu Oct 20 03:47:45 +0000 2011,Tengooo muchiisiimo sueño #twitter off ... :) descanseen!,irrelevant
+4876,twitter,irrelevant,126867149775044608,Thu Oct 20 03:47:40 +0000 2011,"Bom, vou fechar esse #Twitter, porque ele está roubando os meus assuntos ¬¬",irrelevant
+4877,twitter,irrelevant,126867019646771201,Thu Oct 20 03:47:09 +0000 2011,Policías asaltando a empresarios en plena luz del día? que falta? reggetoneros con cuentas de #Twitter? #nomamar,irrelevant
+4878,twitter,irrelevant,126867015620239360,Thu Oct 20 03:47:08 +0000 2011,Saalee puee iaa me voi salee  #twitter asta mañana,irrelevant
+4879,twitter,irrelevant,126867000030007296,Thu Oct 20 03:47:04 +0000 2011,"jajajajaja PTM!! Gigo, si tuvieras #Twitter llegaría a poner todas las idioteces que dices jajajajaja #EpicWin!",irrelevant
+4880,twitter,irrelevant,126866948909842432,Thu Oct 20 03:46:52 +0000 2011,no entiendo como con lo ingenioso que soy en twitter tengo tan pocos followers. posta #demasiadoego #twitter #stevejobs,irrelevant
+4881,twitter,irrelevant,126866905096130560,Thu Oct 20 03:46:41 +0000 2011,Ninguem fala cmgo no #Twitter!,irrelevant
+4882,twitter,irrelevant,126866882979573760,Thu Oct 20 03:46:36 +0000 2011,"RT @sam1meta #Twitter: Rápido, contundente, y directo. 17 razones para usarlo http://t.co/itML0Lxq… @sam1meta #marketing #sm",irrelevant
+4883,twitter,irrelevant,126866835449708544,Thu Oct 20 03:46:25 +0000 2011,#Twitter  كل من ايدو الو,irrelevant
+4884,twitter,irrelevant,126866833537110016,Thu Oct 20 03:46:24 +0000 2011,Saaindo aqq ;*   boa noite #twitter !,irrelevant
+4885,twitter,irrelevant,126866827715420160,Thu Oct 20 03:46:23 +0000 2011,@Alx2495 jaja y entons que quieres que te explique del #Twitter ???,irrelevant
+4886,twitter,irrelevant,126866789962498048,Thu Oct 20 03:46:14 +0000 2011,@k_vanee hahaha entonces q espera para irse a dormir?? aja pero el vicio del #twitter le gana mas! hahaha uii no señito eso no se hace lol,irrelevant
+4887,twitter,irrelevant,126866773705375744,Thu Oct 20 03:46:10 +0000 2011,@Giiz_arg yo me quedare en #twitter,irrelevant
+4888,twitter,irrelevant,126866759792852992,Thu Oct 20 03:46:07 +0000 2011,@SteffiSavillon Hahaha aplicando el buen #Twitter para las buenas tiraderas!,irrelevant
+4889,twitter,irrelevant,126866701877903361,Thu Oct 20 03:45:53 +0000 2011,@Giiz_arg pero lo originales son los que ya tienen mas de un año con #twitter o algunos meses o que no?,irrelevant
+4890,twitter,irrelevant,126866689236283392,Thu Oct 20 03:45:50 +0000 2011,"@Elitotora Ajajaja!! Pero si avisé poh!! Acá en el #twitter, ademá q' te dije q' la iba a ver... xD",irrelevant
+4891,twitter,irrelevant,126866515122331648,Thu Oct 20 03:45:08 +0000 2011,"#Twitter: Rápido, contundente, y directo. 17 razones para usarlo http://t.co/m0NP3FCK @sam1meta #marketing #sm",irrelevant
+4892,twitter,irrelevant,126866508818296832,Thu Oct 20 03:45:07 +0000 2011,Agora vou tentar dormi Game Over #Twitter #Facebook,irrelevant
+4893,twitter,irrelevant,126866454845984768,Thu Oct 20 03:44:54 +0000 2011,pensando seriamente em excluir meu #twitter,irrelevant
+4894,twitter,irrelevant,126866426521849857,Thu Oct 20 03:44:47 +0000 2011,C meus amigos do #Twitter a maioria do Brasil eu tenho dificuldade p um chat qdo trabalho se madrugada! #horariodeverao no!!!,irrelevant
+4895,twitter,irrelevant,126866385757417472,Thu Oct 20 03:44:38 +0000 2011,Puta pero da Wueba dormirse....Bueno mejor sigo en #Twitter..jejeje :),irrelevant
+4896,twitter,irrelevant,126866312130609152,Thu Oct 20 03:44:20 +0000 2011,@ArmiiBunbury :OO no sabia que tenias #twitter ;) followme & me das followback vale ;),irrelevant
+4897,twitter,irrelevant,126866267998134272,Thu Oct 20 03:44:10 +0000 2011,#BuenDia #Twitter Visite nuestra web y recomiendenos desde el boton tweet!,irrelevant
+4898,twitter,irrelevant,126866222355722240,Thu Oct 20 03:43:59 +0000 2011,"@itiinha_lais, é @EvelynJullyanne, segue de volta esse #Twitter, a gente ta fundando a Pastoral da Juventude e precisamos de ajuda! Segue bj",irrelevant
+4899,twitter,irrelevant,126866176889454592,Thu Oct 20 03:43:48 +0000 2011,"Michael Jackson Quiñonez, jugador de la Selección que está en los Panamericanos es ""TT"" tendencia mundial en #Twitter.",irrelevant
+4900,twitter,irrelevant,126866076016447489,Thu Oct 20 03:43:24 +0000 2011,Mee ustan sus besiitos x #twitter aw* es una princesiita!,irrelevant
+4901,twitter,irrelevant,126866058337460224,Thu Oct 20 03:43:20 +0000 2011,#Facebook esta asustado porque #twitter viene arrasando...,irrelevant
+4902,twitter,irrelevant,126866027316383744,Thu Oct 20 03:43:12 +0000 2011,Eres mil Veces mejor #Twitter :D,irrelevant
+4903,twitter,irrelevant,126866021402427392,Thu Oct 20 03:43:11 +0000 2011,@RiiickSilva A gente empolga nee com #Twitter #Rss,irrelevant
+4904,twitter,irrelevant,126865987365634048,Thu Oct 20 03:43:03 +0000 2011,RT : TAXI ที่นั่งมา คนขับบอกเค้าเป็นเสื้อแดง ... แต่ด่าทักษิณ ... บอกว่าคนอุตส่าห์เลือก แต่พอน้ำท่วมแล้วหายหัว #twitter,irrelevant
+4905,twitter,irrelevant,126865977970401280,Thu Oct 20 03:43:00 +0000 2011,Mention #Twitter and get a Pittsburgh HVAC and Electrical systems Checkup for $129 Contact http://t.co/KI7JJulI,irrelevant
+4906,twitter,irrelevant,126865966624813057,Thu Oct 20 03:42:58 +0000 2011,"Los psicólogos se están quedando sin pacientes, el #twitter se los está robando..",irrelevant
+4907,twitter,irrelevant,126865936115445761,Thu Oct 20 03:42:50 +0000 2011,"Pobres losers los que ponen en FB esto no es #Twitter, ósea no comparen por favor...",irrelevant
+4908,twitter,irrelevant,126865932806139904,Thu Oct 20 03:42:50 +0000 2011,Fun in sun @intework this summer #twitter,irrelevant
+4909,twitter,irrelevant,126865890665967618,Thu Oct 20 03:42:40 +0000 2011,"de esa gente q acaba de leer el libro, vió una definición médica y la pone en #Twitter _ #wevatotal",irrelevant
+4910,twitter,irrelevant,126865868599726080,Thu Oct 20 03:42:34 +0000 2011,todos en #twitter conmocionados con #SoyTuFan2daTemporada,irrelevant
+4911,twitter,irrelevant,126865864086667264,Thu Oct 20 03:42:33 +0000 2011,"Bueno y ya dejen ese ""trasteo masivo"" de frases de #twitter al #facebook ... CREATIVIDAD GENTE! . CREEAAATIIIVIIIDAAAD !",irrelevant
+4912,twitter,irrelevant,126865777423941633,Thu Oct 20 03:42:13 +0000 2011,"@sundaaay ja installera om appen så hoppas de räcker 
+
+#Twitter / @twitter pleas fix the app! Can't se mentions! And DM:s",irrelevant
+4913,twitter,irrelevant,126865704380153856,Thu Oct 20 03:41:55 +0000 2011,"RT @HdzMarin1: Mi pasatiempo favorito hoy en día, es como ver hay personas bipolares, tanto en #Twitter como en la vida real...",irrelevant
+4914,twitter,irrelevant,126865703969099776,Thu Oct 20 03:41:55 +0000 2011,"Nossa, meu BG aqui no #Twitter está uma coisa pavorosa... preciso recortar essa foto de novo... meu rosto ficou todo deformado... hahaha",irrelevant
+4915,twitter,irrelevant,126865661602447362,Thu Oct 20 03:41:45 +0000 2011,"Me acabo de dar cuenta que he pasado el #tuit numero 1000!!! 
+#Twitter",irrelevant
+4916,twitter,irrelevant,126865633869709312,Thu Oct 20 03:41:38 +0000 2011,"【#bot】相互フォロワー募集!
+#followme #followmeJP #sougofollow #followdaibosyu #goen #followback #follow #sougo #daibosyu #twitter #time #japan",irrelevant
+4917,twitter,irrelevant,126865576093171712,Thu Oct 20 03:41:25 +0000 2011,RT @JhonAlexGarciaA: MI NOVIA Y COSTUMBRE DE DEJARME DE SEGUIR EN #TWITTER JAJJAA,irrelevant
+4918,twitter,irrelevant,126865573228445696,Thu Oct 20 03:41:24 +0000 2011,"no tempo qe eu usava #twitter era bem melhor, fazia muitas amizades, hoje em dia #twitter serve apenas para falar bobeiras :s",irrelevant
+4919,twitter,irrelevant,126865566236553216,Thu Oct 20 03:41:22 +0000 2011,"Mi pasatiempo favorito hoy en día, es como ver hay personas bipolares, tanto en #Twitter como en la vida real...",irrelevant
+4920,twitter,irrelevant,126865487584968704,Thu Oct 20 03:41:03 +0000 2011,xau #twitter.,irrelevant
+4921,twitter,irrelevant,126865416671862785,Thu Oct 20 03:40:47 +0000 2011,Con tanto estudio me olvide de #twitter,irrelevant
+4922,twitter,irrelevant,126865410598502400,Thu Oct 20 03:40:45 +0000 2011,MI NOVIA Y COSTUMBRE DE DEJARME DE SEGUIR EN #TWITTER JAJJAA,irrelevant
+4923,twitter,irrelevant,126865389861871617,Thu Oct 20 03:40:40 +0000 2011,RT @JaylaStarr: Sex Games http://t.co/5qtmLHJn #@JaylaStarr #@JCannonDSD #sex #Twitter #video,irrelevant
+4924,twitter,irrelevant,126865304277090304,Thu Oct 20 03:40:20 +0000 2011,"@lorenbsas @telerinonline @VeroTurismo @elisafn @arielmun @matchpoint20 ah si! ya es hora, pero #Twitter me tienta tanto! me encanta!",irrelevant
+4925,twitter,irrelevant,126865296463118337,Thu Oct 20 03:40:18 +0000 2011,Sex Games http://t.co/5qtmLHJn #@JaylaStarr #@JCannonDSD #sex #Twitter #video,irrelevant
+4926,twitter,irrelevant,126865215492071424,Thu Oct 20 03:39:59 +0000 2011,@Jerryfolio Bienvenido a #twitter,irrelevant
+4927,twitter,irrelevant,126865127977918464,Thu Oct 20 03:39:38 +0000 2011,Bienvenida al mundo #twitter... Te quiero mucho Azucena!!! @Elidaandrea!!!,irrelevant
+4928,twitter,irrelevant,126865092565417984,Thu Oct 20 03:39:29 +0000 2011,@fitotorresm Camarada @EderCarmona01 si tiene #Twitter & veremos la pelicula si la encuentra XD,irrelevant
+4929,twitter,irrelevant,126865045949919233,Thu Oct 20 03:39:18 +0000 2011,#Twitter #Off :( Quizá mañana comenzaré a Twittear desde un movil..Mi nuevo Nokia X2-01!! :),irrelevant
+4930,twitter,irrelevant,126865038676987904,Thu Oct 20 03:39:16 +0000 2011,"Me acabo de dar cuenta que he pasado el #tuit numero 1000!!!
+#Twitter",irrelevant
+4931,twitter,irrelevant,126865014215802880,Thu Oct 20 03:39:11 +0000 2011,"vo dorrmi bjuss ""#TWITTER",irrelevant
+4932,twitter,irrelevant,126864993760182272,Thu Oct 20 03:39:06 +0000 2011,Chucha! me equivoque.... perdón cierto que #twitter es ATP,irrelevant
+4933,twitter,irrelevant,126864955285831680,Thu Oct 20 03:38:57 +0000 2011,Hay dias que tengo tanto q pensar y digo lo voy a poner en #twitter pero no tengo tiempo !,irrelevant
+4934,twitter,irrelevant,126864954140803072,Thu Oct 20 03:38:56 +0000 2011,Que bueno que hay gente que no te lee aqui en #twitter :D,irrelevant
+4935,twitter,irrelevant,126864917566455809,Thu Oct 20 03:38:48 +0000 2011,"el momento en el que me puedo desahogar, si efectividamente es en #twitter",irrelevant
+4936,twitter,irrelevant,126864908582260736,Thu Oct 20 03:38:45 +0000 2011,"""Não sou viciada em dorgas nem em alcool mais sou no #Twitter fato""",irrelevant
+4937,twitter,irrelevant,126864848649846784,Thu Oct 20 03:38:31 +0000 2011,#Twitter OFF! Duerman super rico! :D,irrelevant
+4938,twitter,irrelevant,126864847399944192,Thu Oct 20 03:38:31 +0000 2011,Hoy no abri mi #twitter en todo el santo dia 5;,irrelevant
+4939,twitter,irrelevant,126864712766980096,Thu Oct 20 03:37:59 +0000 2011,aai galeraa do #twitter abraço para queem ficaa,irrelevant
+4940,twitter,irrelevant,126864692470751232,Thu Oct 20 03:37:54 +0000 2011,Es todo por hoy....#twitter off  =),irrelevant
+4941,twitter,irrelevant,126864623252144128,Thu Oct 20 03:37:37 +0000 2011,"@dialepimu Ya decía yo ""ésta nena escribe muy bn me imagino que debe tener un perfil en #twitter""",irrelevant
+4942,twitter,irrelevant,126864485943214080,Thu Oct 20 03:37:05 +0000 2011,El dia de hoy esta muy flojo el #Twitter qe pasaa DDDDDDDD: la apocalipsis ok no jaja,irrelevant
+4943,twitter,irrelevant,126864460957749248,Thu Oct 20 03:36:59 +0000 2011,(y) hipocritas! RT: si quieren pedirle algo a Dios oreeeen que el asi nos escucha... no que lo escriben por #facebook y #twitter -.-',irrelevant
+4944,twitter,irrelevant,126864441999507456,Thu Oct 20 03:36:54 +0000 2011,Es k algo le pasa a mi #twitter nada en lo que me taggean aparece ... Que sucede?,irrelevant
+4945,twitter,irrelevant,126864344125419520,Thu Oct 20 03:36:31 +0000 2011,RT @joe_joseff: De acuerdo a la encuesta hecha por mi la mayoría de mis amigos de #Facebook no saben utilizar #twitter xD #QueMensos,irrelevant
+4946,twitter,irrelevant,126864341071962112,Thu Oct 20 03:36:30 +0000 2011,@matheusdcb Me segue de volta Matheus ajeitei meu #twitter hj.,irrelevant
+4947,twitter,irrelevant,126864316120047617,Thu Oct 20 03:36:24 +0000 2011,"No me puedo dormir, pero me quedo con mi mejor amigo... #TWITTER.",irrelevant
+4948,twitter,irrelevant,126864259027181568,Thu Oct 20 03:36:11 +0000 2011,Este #TWITTER se esta saturando mucho:@,irrelevant
+4949,twitter,irrelevant,126864201804300289,Thu Oct 20 03:35:57 +0000 2011,"#TWITTER, minha salvação ... =D",irrelevant
+4950,twitter,irrelevant,126864188969725953,Thu Oct 20 03:35:54 +0000 2011,meu #Twitter ta a coisa mais linda rs !!,irrelevant
+4951,twitter,irrelevant,126864074045784064,Thu Oct 20 03:35:26 +0000 2011,Graacias :D RT @RaHorajty051230 @JeMaZuCe buena pic de perfil de #twitter!!,irrelevant
+4952,twitter,irrelevant,126864072447766528,Thu Oct 20 03:35:26 +0000 2011,De acuerdo a la encuesta hecha por mi la mayoría de mis amigos de #Facebook no saben utilizar #twitter xD #QueMensos,irrelevant
+4953,twitter,irrelevant,126864016613183489,Thu Oct 20 03:35:13 +0000 2011,jajajajaja la @mignonmc  contandome un secretoo ii x el #twitter jajajaja,irrelevant
+4954,twitter,irrelevant,126863938339094531,Thu Oct 20 03:34:54 +0000 2011,"#FB no es mi amigo, por eso mejor #Twitter , al menos ahorita",irrelevant
+4955,twitter,irrelevant,126863845326209024,Thu Oct 20 03:34:32 +0000 2011,"@CriistianZepeda oyendo musica, chat & en #TWITTER",irrelevant
+4956,twitter,irrelevant,126863808177254400,Thu Oct 20 03:34:23 +0000 2011,RT @MizzSpicey: #TeamFollowBack #TFB #MustFollow #MF #FollowNow #FN #FollowFriday #FF #IFB #Twitter #Follow @Only1DeejayER &lt;&lt; oooh ...,irrelevant
+4957,twitter,irrelevant,126863734265217025,Thu Oct 20 03:34:05 +0000 2011,#twitter se me hiso vicio,irrelevant
+4958,twitter,irrelevant,126863732931432448,Thu Oct 20 03:34:05 +0000 2011,RT @Daniel_Evilla: ese poco de pensamientos y frases de manes en #twitter... son pura pendejadas me imagino que no cumplen con ninguno.,irrelevant
+4959,twitter,irrelevant,126863723179675648,Thu Oct 20 03:34:03 +0000 2011,"RT @_MARCELOMENDES: Sigam no #Twitter, vale muito legal! www.twitter.com/TREINANDOLIDER",irrelevant
+4960,twitter,irrelevant,126863722412118017,Thu Oct 20 03:34:03 +0000 2011,Ya el #twitter como que me esta dejando de parecer divertido...,irrelevant
+4961,twitter,irrelevant,126863708889690112,Thu Oct 20 03:33:59 +0000 2011,"o #twitter pedi : no que esta pensando agora ? se fosse pra mim só falar isso, iria ficar escrevendo o dia inteiro milena, milena! @mi_qw s2",irrelevant
+4962,twitter,irrelevant,126863696726200320,Thu Oct 20 03:33:56 +0000 2011,#TeamFollowBack #TFB #MustFollow #MF #FollowNow #FN #FollowFriday #FF #IFB #Twitter #Follow @Only1DeejayER &lt;&lt; oooh DAMN nice pic!!! #Ladies,irrelevant
+4963,twitter,irrelevant,126863647845789696,Thu Oct 20 03:33:45 +0000 2011,@marthaubaque1 Que bacano hermanita que estés en la honda del #Twitter  :),irrelevant
+4964,twitter,irrelevant,126863594850746369,Thu Oct 20 03:33:32 +0000 2011,Meu #Deus ilumine aqueles que eu amo: @mayaraangelica @andreeybaltieri @Amandafl_ e o @FabrcioCamargo os meus amigos d #TWITTER :),irrelevant
+4965,twitter,irrelevant,126863579914829824,Thu Oct 20 03:33:29 +0000 2011,mm but yeo .. #twitter .. free up @_tashaaiWESTEND ! free up @_tashaaiWESTEND ! free up @_tashaaiWESTEND !,irrelevant
+4966,twitter,irrelevant,126863563133431809,Thu Oct 20 03:33:25 +0000 2011,ese poco de pensamientos y frases de manes en #twitter... son pura pendejadas me imagino que no cumplen con ninguno.,irrelevant
+4967,twitter,irrelevant,126863551355822080,Thu Oct 20 03:33:22 +0000 2011,@danielpulido03 Con el tiempo querido amigo entenderas pronto aprenderas... alabado sea #twitter el diario de #personasinviables :D,irrelevant
+4968,twitter,irrelevant,126863538626109440,Thu Oct 20 03:33:19 +0000 2011,"[aa] , suavi bando de cornos & cornas , nun desejo boa noitte pra min , uma maldição pra voçs viciados en #Twitter , haha ++",irrelevant
+4969,twitter,irrelevant,126863416211156992,Thu Oct 20 03:32:50 +0000 2011,"@nachogoano  tiene 146692 seguidores, a la masividad de #twitter es sorprendente.",irrelevant
+4970,twitter,irrelevant,126863368492564481,Thu Oct 20 03:32:38 +0000 2011,tengo q ir a dormir pero no qiero xD #Twitter =D,irrelevant
+4971,twitter,irrelevant,126863360779227136,Thu Oct 20 03:32:36 +0000 2011,Juelaa de verdd qe si me ahce fata #twitter,irrelevant
+4972,twitter,irrelevant,126863360686956544,Thu Oct 20 03:32:36 +0000 2011,@PorzelinCako jaja yo tmb esoy como @maffer_rdz como no tengo ni perro ps minimo #Twitter jaja,irrelevant
+4973,twitter,irrelevant,126863321327611904,Thu Oct 20 03:32:27 +0000 2011,y ustedes se ga ga ga ga cuando el mago les manda por #Twitter,irrelevant
+4974,twitter,irrelevant,126863319226265600,Thu Oct 20 03:32:26 +0000 2011,@NaniRicciHitch Mais oooh! Je #Joke comme on dit sur #twitter -___-' On papote demain! :) Bises,irrelevant
+4975,twitter,irrelevant,126863283658567680,Thu Oct 20 03:32:18 +0000 2011,#Twitter esta loco!,irrelevant
+4976,twitter,irrelevant,126863189844566016,Thu Oct 20 03:31:56 +0000 2011,A Dormir.! #Twitter OFF,irrelevant
+4977,twitter,irrelevant,126863136111333376,Thu Oct 20 03:31:43 +0000 2011,"Tengo que bancar propaganda de política en la calle, en la radio, la tele, panfletos en mi casa... ahora en #Twitter también? no rompan!!",irrelevant
+4978,twitter,irrelevant,126863118398787584,Thu Oct 20 03:31:39 +0000 2011,Me voy a dormir... Goodnight #twitter,irrelevant
+4979,twitter,irrelevant,126863108802232320,Thu Oct 20 03:31:36 +0000 2011,@mnoo_ana @g6wa1998 Etha Nim. w blyala tbon #twitter :p,irrelevant
+4980,twitter,irrelevant,126863108688986112,Thu Oct 20 03:31:36 +0000 2011,QUE VIDEO FACEBOOK CON LA OPCION DE VIDEOLLAMADA LE MONTARON LA COMPETENCIA A #MSN #SKYPE  #TWITTER ES ORIGINAL TIENE #TWICAM ;),irrelevant
+4981,twitter,irrelevant,126863078112509952,Thu Oct 20 03:31:29 +0000 2011,@YasserDVM jaja ya vez una qe es ineligene y estudia en #Twitter jajaj ntc,irrelevant
+4982,twitter,irrelevant,126863012433899520,Thu Oct 20 03:31:13 +0000 2011,@maffkilleritta #twitter se puso de nena y no me dejaba contestar,irrelevant
+4983,twitter,irrelevant,126862981333139457,Thu Oct 20 03:31:06 +0000 2011,ツイッター検索 #minsyu - モバイル版 http://t.co/EsyvJ7Q7 #twitter #検索結果,irrelevant
+4984,twitter,irrelevant,126862918921891840,Thu Oct 20 03:30:51 +0000 2011,Ya chao #twitter !,irrelevant
+4985,twitter,irrelevant,126862904514445312,Thu Oct 20 03:30:48 +0000 2011,Ya Me voy Adios! #twitter por que esta muy Fome :S,irrelevant
+4986,twitter,irrelevant,126862852681240576,Thu Oct 20 03:30:35 +0000 2011,Hasta mañana #Twitter,irrelevant
+4987,twitter,irrelevant,126862832489861121,Thu Oct 20 03:30:30 +0000 2011,ô negocio parado aqui tá o #msn e o #twitter,irrelevant
+4988,twitter,irrelevant,126862813355442176,Thu Oct 20 03:30:26 +0000 2011,Maldito seas por siempre #twitter,irrelevant
+4989,twitter,irrelevant,126862789649248256,Thu Oct 20 03:30:20 +0000 2011,なにやらフォロー制限に引っ掛かったようです…もっとフォロアーを増やさなくちゃ♪　#followme #followmejp #follow #フォロー #japan #日本　#twitter　,irrelevant
+4990,twitter,irrelevant,126862725933576192,Thu Oct 20 03:30:05 +0000 2011,"Foto nova aqui no #Twitter. Essa ficou melhor.... rs
+#Adoro esse blazer. Preciso comprar um... #CTX arrazando nas roupas que eu visto no pgm",irrelevant
+4991,twitter,irrelevant,126862722028666880,Thu Oct 20 03:30:04 +0000 2011,#twitter #detik Ali Imron dan Imam Samudra Survei Paddys Pub http://t.co/otUl1ujQ,irrelevant
+4992,twitter,irrelevant,126862722007699456,Thu Oct 20 03:30:04 +0000 2011,#twitter #detik Ketua Dewan Adat Papua Jadi Tersangka Kasus Makar http://t.co/Jzqi1JUI,irrelevant
+4993,twitter,irrelevant,126862721793789953,Thu Oct 20 03:30:04 +0000 2011,"#twitter #detik Ada Ledakan, TransJ Pinang Ranti-Pluit Tetap Beroperasi http://t.co/is9X23JR",irrelevant
+4994,twitter,irrelevant,126862721609248769,Thu Oct 20 03:30:04 +0000 2011,"#twitter #detik SBY Bertemu PM Malaysia di Lombok - Setelah meresmikan Bandara Internasional Lombok, Presiden SBY me... http://t.co/h8PI2sjX",irrelevant
+4995,twitter,irrelevant,126862719927332864,Thu Oct 20 03:30:04 +0000 2011,#twitter #detik Tak Ada Api di TransJ yang Meledak di SPBG Pinang Ranti http://t.co/OTIJLXp7,irrelevant
+4996,twitter,irrelevant,126862668039598080,Thu Oct 20 03:29:51 +0000 2011,RT @edwin_ubaque: Hola @marthaubaque bienvenia a #twitter,irrelevant
+4997,twitter,irrelevant,126862654324211713,Thu Oct 20 03:29:48 +0000 2011,"Seremos pelotudos, pero somos una bocha #Twitter",irrelevant
+4998,twitter,irrelevant,126862595117424641,Thu Oct 20 03:29:34 +0000 2011,"Hace cuanto que no me conecto al msn, ya no le doy tanta bola al facebook, y todo por tu culpa #twitter",irrelevant
+4999,twitter,irrelevant,126862536162295808,Thu Oct 20 03:29:20 +0000 2011,tenho que ir dormir mais o #twitter naum deixa :S,irrelevant
+5000,twitter,irrelevant,126862464003477504,Thu Oct 20 03:29:03 +0000 2011,#TeamFollowBack #iFollowBack #InstantFollowBack #Follow4Follow #network #tlow #twitter,irrelevant
+5001,twitter,irrelevant,126862447041712128,Thu Oct 20 03:28:59 +0000 2011,RT @anfisabreus Как настроить кросспостинг комментариев с блога на Твиттер http://t.co/6DLxWIlU #twitter,irrelevant
+5002,twitter,irrelevant,126862429912186880,Thu Oct 20 03:28:54 +0000 2011,Hoy definitivamente noche para la risa en #twitter,irrelevant
+5003,twitter,irrelevant,126862343148802048,Thu Oct 20 03:28:34 +0000 2011,Me voy un rato del #twitter y todo lo que me entero al volver ¬¬!...,irrelevant
+5004,twitter,irrelevant,126862329269858305,Thu Oct 20 03:28:30 +0000 2011,#twitter sos un vicioooooo,irrelevant
+5005,twitter,irrelevant,126862315990679552,Thu Oct 20 03:28:27 +0000 2011,Bonjour #twitter,irrelevant
+5006,twitter,irrelevant,126862308302532608,Thu Oct 20 03:28:25 +0000 2011,El #twitter ha cambiado mi vida!,irrelevant
+5007,twitter,irrelevant,126862269148692481,Thu Oct 20 03:28:16 +0000 2011,@luisrodrigogali ajjaja noo nooo poes porqq se va a enterarr a menos q tengaa #Twitter jajaja,irrelevant
+5008,twitter,irrelevant,126862268725080065,Thu Oct 20 03:28:16 +0000 2011,me acabo de dar cuenta q tengo mas seguidores en #Twitter :D gracias y espero q sigan sumandoo mas y mas :D para seguir aun mas activo aki,irrelevant
+5009,twitter,irrelevant,126862217013497856,Thu Oct 20 03:28:04 +0000 2011,"RT @guuuif: Meu twitter tá ficando velho já, My #twitter age is 285 days 8 hours 52 minutes 40 seconds",irrelevant
+5010,twitter,irrelevant,126862201440043008,Thu Oct 20 03:28:00 +0000 2011,"No sé que haría sin #Twitter. Bueno sí, probablemente mis tareas. :)",irrelevant
+5011,twitter,irrelevant,126862151343284224,Thu Oct 20 03:27:48 +0000 2011,Alguien ha escuchado hablar de #blaving ? Es parecido al #twitter pero con voz ;),irrelevant
+5012,twitter,irrelevant,126862150265352193,Thu Oct 20 03:27:48 +0000 2011,RT @social_net_info: みんなでつくるTwitter連動型結婚式ムービーサービス「Congratweet（コングラッツイート）」:  http://t.co/9osWU51e #Twitter,irrelevant
+5013,twitter,irrelevant,126862116874489856,Thu Oct 20 03:27:40 +0000 2011,o @RafaArrudaa olha o papel de fundo do meu #TWITTER se vai raxa #HSAUHSAUASHASUHSUSHAUHSUASHUASHASHUASH',irrelevant
+5014,twitter,irrelevant,126861992001679360,Thu Oct 20 03:27:10 +0000 2011,"hace unos días tenía 711 mensajes de e-mail, lo que más quiero es leerlos todos, acabo de ver y tengo 736 y lo peor #facebook & #twitter= 0",irrelevant
+5015,twitter,irrelevant,126861988004499457,Thu Oct 20 03:27:09 +0000 2011,Arrumando meu #twitter :D,irrelevant
+5016,twitter,irrelevant,126861979762696192,Thu Oct 20 03:27:07 +0000 2011,Tinha Esquecido Do #Twitter Ç.Ç Nunca Fiz Isso !Rsrsrs,irrelevant
+5017,twitter,irrelevant,126861955762888706,Thu Oct 20 03:27:01 +0000 2011,@Markeenn meu #Twitter ==&gt; @isaiasx19 Sumiu #rsrsr,irrelevant
+5018,twitter,irrelevant,126861933071704065,Thu Oct 20 03:26:56 +0000 2011,#putamadre hay gente que pasa todo el día poniendo sus  problemas de amor cada 5 minutos en #FB consiganse una cuenta de #twitter losers!,irrelevant
+5019,twitter,irrelevant,126861782378745856,Thu Oct 20 03:26:20 +0000 2011,Hola! bienvenidos al mundo en cuando #twitter se convierte en una adicción y no podés estar un día sin entrar ... ahhh,irrelevant
+5020,twitter,irrelevant,126861771314184192,Thu Oct 20 03:26:17 +0000 2011,Ehhhh-.- yOO Diiqooo lO que quiierooo xk es Miii #Twitter :(,irrelevant
+5021,twitter,irrelevant,126861717790658561,Thu Oct 20 03:26:05 +0000 2011,kk eu queria muito mudar  meu #BG aqui do #twitter :D,irrelevant
+5022,twitter,irrelevant,126861611741872128,Thu Oct 20 03:25:39 +0000 2011,"@cagimo mire la última foto que monte al #Twitter, ayude a su amigo a la colección :D :D :D #Indirecta",irrelevant
+5023,twitter,irrelevant,126861593249185793,Thu Oct 20 03:25:35 +0000 2011,"to saindo aqui pessoal do #twitter, bjbj e abraços.",irrelevant
+5024,twitter,irrelevant,126861589122002944,Thu Oct 20 03:25:34 +0000 2011,"Gracias a ti hoy puedo ser feliz ,i cuando llegaste aprendi a vivir .Gracias #twitter",irrelevant
+5025,twitter,irrelevant,126861539511775232,Thu Oct 20 03:25:22 +0000 2011,Saindo aqui do #Twitter..,irrelevant
+5026,twitter,irrelevant,126861496109121536,Thu Oct 20 03:25:12 +0000 2011,コミュニティファクトリー、5カ国語対応のスマートフォンカメラアプリ「DECOPIC」（CNET Japan） ⇒ http://t.co/xghcsgx5 #twitter,irrelevant
+5027,twitter,irrelevant,126861493059854336,Thu Oct 20 03:25:11 +0000 2011,アップル、S・ジョブズ氏をしのぶ追悼ページを公開（CNET Japan） ⇒ http://t.co/NnwaTSiH #twitter,irrelevant
+5028,twitter,irrelevant,126861480128819201,Thu Oct 20 03:25:08 +0000 2011,no los menciono por que me calientan el #twitter,irrelevant
+5029,twitter,irrelevant,126861380992241664,Thu Oct 20 03:24:44 +0000 2011,"voou saiir do #twitter , e vou fica peelo eemi .. o paai qe se fooda k- beijo gente .",irrelevant
+5030,twitter,irrelevant,126861357831303168,Thu Oct 20 03:24:39 +0000 2011,ツイッターを利用して感謝の気持ちとともに約２０００円が振り込まれ続ける方法→ｺｺ→ http://t.co/TyjUGsnQ ←ｺｺ← :) #ビジネス #稼ぐ #副業 #Twitter #ツイッター,irrelevant
+5031,twitter,irrelevant,126861252134830080,Thu Oct 20 03:24:14 +0000 2011,#Twitter Hoje ta #BONBANO só #ELITE poooha,irrelevant
+5032,twitter,irrelevant,126861245109387264,Thu Oct 20 03:24:12 +0000 2011,"Un Algodón mkon, me invadió el #Twitter ._. xd",irrelevant
+5033,twitter,irrelevant,126861233138827264,Thu Oct 20 03:24:09 +0000 2011,Tenia qe comentar en #Twitter el concierto de caifanes poca modre yeah!!!!!,irrelevant
+5034,twitter,irrelevant,126861218592980992,Thu Oct 20 03:24:06 +0000 2011,que tengas #twitter no significa que sabes que es #tweetear xD,irrelevant
+5035,twitter,irrelevant,126861187605471232,Thu Oct 20 03:23:58 +0000 2011,mm por q casi nadie sabe utilizar #TWITTER??,irrelevant
+5036,twitter,irrelevant,126861118684676096,Thu Oct 20 03:23:42 +0000 2011,DICEN q estoy viciada con #twitter... Pero mmm... NO!,irrelevant
+5037,twitter,irrelevant,126861100120686592,Thu Oct 20 03:23:37 +0000 2011,@maffer_rdz si de heco igual a mi ya casi no me gusa de hecho siempre lo primero qe habro es #Twitter es mas facil qe me contacten aqi jeje,irrelevant
+5038,twitter,irrelevant,126860970583797760,Thu Oct 20 03:23:07 +0000 2011,@maxpowertoloza bienvenido #TWITTER jejejeeje buena!!!,irrelevant
+5039,twitter,irrelevant,126860953450065920,Thu Oct 20 03:23:02 +0000 2011,@Frank_2869 hey q pedo como vamos en #TWITTER,irrelevant
+5040,twitter,irrelevant,126860911557345280,Thu Oct 20 03:22:52 +0000 2011,Me acuerdo cuando abri #twitter el primer follow que di fue a #PistokO,irrelevant
+5041,twitter,irrelevant,126860890749419521,Thu Oct 20 03:22:47 +0000 2011,soy un guacamaya en #twitter,irrelevant
+5042,twitter,irrelevant,126860877344407552,Thu Oct 20 03:22:44 +0000 2011,"RT @monizetru: Lo mejor de #twitter sucede en la madruga, cuando los continentes abrazan un no sé qué que a mí me (falta)&gt;SOBRA!",irrelevant
+5043,twitter,irrelevant,126860835892109312,Thu Oct 20 03:22:34 +0000 2011,@Yesenia_Rivero puxi losiento deverdad q toy medio alejadoo de #twitter pero pronto estare al dia.. cuidate muxo. besitos a distancia bay!!!,irrelevant
+5044,twitter,irrelevant,126860830942834689,Thu Oct 20 03:22:33 +0000 2011,el #twitter se vuelve Bisiiioo,irrelevant
+5045,twitter,irrelevant,126860808251637762,Thu Oct 20 03:22:28 +0000 2011,"Com 250 milhões de mensagens diárias, Twitter cogita pagar por tuítes #Twitter http://t.co/sucRDj5Y via @idgnow",irrelevant
+5046,twitter,irrelevant,126860789536657408,Thu Oct 20 03:22:23 +0000 2011,"Hola #Twitter, y también hola estúpido caso clínico. u.u",irrelevant
+5047,twitter,irrelevant,126860754912681985,Thu Oct 20 03:22:15 +0000 2011,"@aleExlima93 si voz lo que me perdi, pero almenos lo disfrute, #twitter lo mejor",irrelevant
+5048,twitter,irrelevant,126860740689797120,Thu Oct 20 03:22:12 +0000 2011,o @_Netex foi perguntar pra @Eriikuxa se o novo #Twitter dela é @vsf #eurir kkkkkkk' e ainda disse a ela q foi eu q perguntei ¬¬,irrelevant
+5049,twitter,irrelevant,126860719860883458,Thu Oct 20 03:22:07 +0000 2011,Realmente no se por que ponen cosas de #twitter en fb!! vv facebook es FB! Y twitter es TWITTER!! C'mon! vv,irrelevant
+5050,twitter,irrelevant,126860653167263744,Thu Oct 20 03:21:51 +0000 2011,Será que antes de tener #Twitter le decía a la gente cuanta cosa se me ocurriera?,irrelevant
+5051,twitter,irrelevant,126860610020446209,Thu Oct 20 03:21:41 +0000 2011,NOSSA *OOOOOOOO* já n basta aquela #BALEIA CHATA DO #TWITTER agora tem tartaruga! :/ rsrsrss q merda !,irrelevant
+5052,twitter,irrelevant,126860576600227841,Thu Oct 20 03:21:33 +0000 2011,#MichaelJakcsonQuiñonez wowo ya es un tema muy comentado en #twitter,irrelevant
+5053,twitter,irrelevant,126860372987740160,Thu Oct 20 03:20:44 +0000 2011,Sigo resentida porque yo quería ver solamente a cobra ☺ @Evenpro para la próxima no metan tanto la pata! #Twitter OFF,irrelevant
+5054,twitter,irrelevant,126860329463447552,Thu Oct 20 03:20:34 +0000 2011,Cuantos tweets al dia es capaz de hacer una persona? #twitter,irrelevant
+5055,twitter,irrelevant,126860146289803265,Thu Oct 20 03:19:50 +0000 2011,vou saindo do #TWITTER ....,irrelevant
+5056,twitter,irrelevant,126860127167987712,Thu Oct 20 03:19:45 +0000 2011,@EdiSant1 tah di mais em mlk fez um #twitter haha,irrelevant
+5057,twitter,irrelevant,126860109090521088,Thu Oct 20 03:19:41 +0000 2011,Creo q cuando una persona ya no te quiere te borrade su #twitter,irrelevant
+5058,twitter,irrelevant,126859990513369088,Thu Oct 20 03:19:13 +0000 2011,El live stream del server de IPN esta over capacity por @SoytuFan_mx no la caguen si no es #twitter,irrelevant
+5059,twitter,irrelevant,126859860640940032,Thu Oct 20 03:18:42 +0000 2011,De volta no #Twitter.... Boa noite pessoas',irrelevant
+5060,twitter,irrelevant,126859846506127360,Thu Oct 20 03:18:39 +0000 2011,@StevenRestern Wvn soi novato en #Twitter :( me explica :D,irrelevant
+5061,twitter,irrelevant,126859794383515649,Thu Oct 20 03:18:26 +0000 2011,Abonnez vous @TunisieNews2011 et Suivez toute l' #actualité sur #Twitter | #Tunisie #TunisieNews #News,irrelevant
+5062,twitter,irrelevant,126859777308495872,Thu Oct 20 03:18:22 +0000 2011,A mimir!!!! Con el higado entrincado...! Bendita familia....!! :/   #twitter.off,irrelevant
+5063,twitter,irrelevant,126859668151738368,Thu Oct 20 03:17:56 +0000 2011,"Lo mejor de #twitter sucede en la madruga, cuando los continentes abrazan un no sé qué que a mí me falta.",irrelevant
+5064,twitter,irrelevant,126859627051757568,Thu Oct 20 03:17:46 +0000 2011,De novo mais uma vez eu akie de madrugada falando sozinho no #Twitter  =S,irrelevant
+5065,twitter,irrelevant,126859610006110208,Thu Oct 20 03:17:42 +0000 2011,@Crissp16 Si voz aunque sea solo #twitter el #facebook no importa tanto,irrelevant
+5066,twitter,irrelevant,126859509414100992,Thu Oct 20 03:17:18 +0000 2011,YA SE PRENDIO LA MECHA ENTRE MEXICO vs ECUADOR #TWITTER! EL PARTIDO TERMINO PRENDIDO Y AHORA POR #MichaelJacksonQuiñonez LO CREEN OFENSIVO!!,irrelevant
+5067,twitter,irrelevant,126859503495938048,Thu Oct 20 03:17:17 +0000 2011,@maffer_rdz jajaja asu encerio qe si me ganas yo no tantos y eso qe casi odo el dia checo #Twitter :D,irrelevant
+5068,twitter,irrelevant,126859490061598720,Thu Oct 20 03:17:14 +0000 2011,me dio pereza buscar su usuario en #twitter :P+,irrelevant
+5069,twitter,irrelevant,126859443127332864,Thu Oct 20 03:17:02 +0000 2011,RT @mlucia187: Atrum es TT!!!! Jajajaja!!! Q buen nivel el de #twitter esta noche!! Gracias por existir #ElElegido :),irrelevant
+5070,twitter,irrelevant,126859428455657472,Thu Oct 20 03:16:59 +0000 2011,Y asi cambie las cosas en el #facebook y en #twitter! =D,irrelevant
+5071,twitter,irrelevant,126859363079041024,Thu Oct 20 03:16:43 +0000 2011,"o @jcsantos22f1 sumiuuuuuuuuuuuuuuu D, #TWITTER kkkkkk + apareceu n,msn... saudadeeees",irrelevant
+5072,twitter,irrelevant,126859354614939648,Thu Oct 20 03:16:41 +0000 2011,Hasta el puto #Twitter me esta cagando ¬¬',irrelevant
+5073,twitter,irrelevant,126859286558158849,Thu Oct 20 03:16:25 +0000 2011,"Buenas noches, sigan pasandosela bn .. ok no #Twitter Off :3",irrelevant
+5074,twitter,irrelevant,126859257856540672,Thu Oct 20 03:16:18 +0000 2011,Yo no toy en #Twitter hoy ando cansada :/,irrelevant
+5075,twitter,irrelevant,126859211593351168,Thu Oct 20 03:16:07 +0000 2011,"http://t.co/9SWZtOM6 
+#Twitter, faster than #earthquakes
+تويتر أسرع من الزلزال! #funny #fast #tweet #earthquick #LOL",irrelevant
+5076,twitter,irrelevant,126859155175772161,Thu Oct 20 03:15:54 +0000 2011,o sea primera vez que @carlo_patricio me da reply y a #TWITTER se le ocurre borrarlo? #Carajamadre! :(,irrelevant
+5077,twitter,irrelevant,126858835058098176,Thu Oct 20 03:14:37 +0000 2011,#TeamFollowBack #TFB #MustFollow #MF #FollowNow #FN #FollowFriday #FF #IFB #Twitter #Follow @GabeMoormanLaw @AshliSeumanu953 @pamperedplay,irrelevant
+5078,twitter,irrelevant,126858789868670976,Thu Oct 20 03:14:27 +0000 2011,"Cuando no tengo nada que  hacer #twitter, cuando estoy haciendo tareas #twitter, cuando estoy en #twitter no hago NADA",irrelevant
+5079,twitter,irrelevant,126858639855206400,Thu Oct 20 03:13:51 +0000 2011,#TeamFollowBack #TFB #MustFollow #MF #FollowNow #FN #FollowFriday #FF #IFB #Twitter #Follow @all3rgict0y0u @yibumsuk @DatFix @Alleyupi,irrelevant
+5080,twitter,irrelevant,126858260216160256,Thu Oct 20 03:12:20 +0000 2011,Deiixando o #twitter BOA NOITE a todos qual quer coisa só chamarem no facebook! http://t.co/LOeZAYeE #FUI,irrelevant
+5081,twitter,irrelevant,126858248325308416,Thu Oct 20 03:12:17 +0000 2011,Now tuned in to http://t.co/DYMDmU3z with @deejaydenco! #WorldWide #Twitter #Facebook join me!!! #RT,irrelevant
+5082,twitter,irrelevant,126858186962644992,Thu Oct 20 03:12:03 +0000 2011,@jessnovelo el #twitter? Jajaja,irrelevant
+5083,twitter,irrelevant,126858148878368769,Thu Oct 20 03:11:54 +0000 2011,deus ajuda quem no #twitter madruga haha',irrelevant
+5084,twitter,irrelevant,126858034466131969,Thu Oct 20 03:11:26 +0000 2011,Nunca comprendí para que sirve el #Twitter,irrelevant
+5085,twitter,irrelevant,126858032951996416,Thu Oct 20 03:11:26 +0000 2011,"""@julioeffio: @chriseffio yo juraba que te habian hackeado el #Twitter ...TODO fue tan #minipandi"" @julioeffio love u! ♥",irrelevant
+5086,twitter,irrelevant,126858004690767872,Thu Oct 20 03:11:19 +0000 2011,@jorgetb7 jajajajajaja mejor dilo x la radio pues jaja si lo publicas en #twitter me coso el ojo noma ? Jajaja,irrelevant
+5087,twitter,irrelevant,126857921068941314,Thu Oct 20 03:10:59 +0000 2011,"msn, quase ninguem, facebook paradão geral despedindo, #twitter geral ralando :S'",irrelevant
+5088,twitter,irrelevant,126857918929838080,Thu Oct 20 03:10:59 +0000 2011,a mimir Nos leemos mañanaa #Twitter Off,irrelevant
+5089,twitter,irrelevant,126857746200014849,Thu Oct 20 03:10:18 +0000 2011,"@sniferl4bs O.o Estoy interesado en aprender cómo desarrollar un #bot para #Twitter y quizás para #Identica tambien, :) Luego compartes, no.",irrelevant
+5090,twitter,irrelevant,126857736238530560,Thu Oct 20 03:10:15 +0000 2011,Vamos a ver que esta ofreciendo #Twitter,irrelevant
+5091,twitter,irrelevant,126857518591901698,Thu Oct 20 03:09:23 +0000 2011,@DayaThomas Amiga le doy mi Bienvenida al #Twitter!!! Kisesessesesesesesese,irrelevant
+5092,twitter,irrelevant,126857511230902272,Thu Oct 20 03:09:22 +0000 2011,Hoy si es hora de dormir ツ #twitter&facebookOFF,irrelevant
+5093,twitter,irrelevant,126857421321797634,Thu Oct 20 03:09:00 +0000 2011,uff... así con el #twitter... nada que hacer al respecto #anoquesociólogo,irrelevant
+5094,twitter,irrelevant,126857383715676160,Thu Oct 20 03:08:51 +0000 2011,@ppmorraz hahaha esos chistes de #ninel se han vuelto famosos en #twitter,irrelevant
+5095,twitter,irrelevant,126857361515216897,Thu Oct 20 03:08:46 +0000 2011,que como #FACEBOOK ya paso de moda AHORS TODA A PLEBE SE VIENE A #twitter ¬¬,irrelevant
+5096,twitter,irrelevant,126857211921174528,Thu Oct 20 03:08:10 +0000 2011,cuando van a entender que el #twitter no es un chat jajajaja,irrelevant
+5097,twitter,irrelevant,126857080513638400,Thu Oct 20 03:07:39 +0000 2011,Me dijeron q me vuelva al país de los soretes y llegue a #Twitter con todos ustedes :D,irrelevant
+5098,twitter,irrelevant,126857071667847168,Thu Oct 20 03:07:37 +0000 2011,saiiidoooo aqui do #twitter . só Msn agr add aii    danilosooares@hotmail.com  ;DD,irrelevant
+5099,twitter,irrelevant,126857049920385024,Thu Oct 20 03:07:32 +0000 2011,"رقم الفلو
+والفلورز
+والتويتات 
+للبيع
+لاعلى
+سعر
+#TweetOfTheDay 
+#Twitter http://t.co/iIwDNk0n",irrelevant
+5100,twitter,irrelevant,126856764242137088,Thu Oct 20 03:06:24 +0000 2011,"Oiie gente boa madruga kkkk,depois de passar um tempão sem mexer no #twitter agora resolvir mexer de vol... x.x",irrelevant
+5101,twitter,irrelevant,126856732331884545,Thu Oct 20 03:06:16 +0000 2011,ela pensa que eu não faria por ela tuudo isso que ela citou no #twitter dela ¬.¬,irrelevant
+5102,twitter,irrelevant,126856603021484032,Thu Oct 20 03:05:45 +0000 2011,Buenas Noches Followers :3 #twitter-off,irrelevant
+5103,twitter,irrelevant,126856425371746304,Thu Oct 20 03:05:03 +0000 2011,Ciúmes do meu #Twitter não da né?! :&gt;,irrelevant
+5104,twitter,irrelevant,126856274531991552,Thu Oct 20 03:04:27 +0000 2011,Sin más a que hacer referencia me voy pal carajo a dormir buenas noches a los escasos panas q tengo en el #twitter,irrelevant
+5105,twitter,irrelevant,126856135918620673,Thu Oct 20 03:03:54 +0000 2011,@thai_q liga pra acordar ele e fala q foi pedido #twitter kkkkk,irrelevant
+5106,twitter,irrelevant,126856097863708672,Thu Oct 20 03:03:45 +0000 2011,"#Twitter ya vale 8,000 mdd http://t.co/gqxbJO7J 4.1 millones de habitantes en México tienen una cuenta",irrelevant
+5107,twitter,irrelevant,126856097431699456,Thu Oct 20 03:03:45 +0000 2011,"@nataliagdl1207 hahahaha bby, obviamente no es para ti, ni para nadie en #Twitter",irrelevant
+5108,twitter,irrelevant,126855687060987904,Thu Oct 20 03:02:07 +0000 2011,me re copè con #twitter,irrelevant
+5109,twitter,irrelevant,126855171702661120,Thu Oct 20 03:00:04 +0000 2011,Buenas noches genteeee :) #twitter los quierooo ...,irrelevant
+5110,twitter,irrelevant,126854999442587648,Thu Oct 20 02:59:23 +0000 2011,#twitter tiene la mala costumbre de ponerce bno cuano yo me voy :/,irrelevant
+5111,twitter,irrelevant,126854818101858304,Thu Oct 20 02:58:40 +0000 2011,"Oi @flaviasansi. Muito bem vinda ao meu #Twitter. Sempre dou followback pelo meu perfil profissional. Permaneça por aqui, certo? Abrass!",irrelevant
+5112,twitter,irrelevant,126854423317188608,Thu Oct 20 02:57:06 +0000 2011,"Eles arrastaram os barcos para a praia, deixaram tudo e #seguiram Jesus.(Lucas 5-11)e este foii o primeiro #twitter da historia humana #RT",irrelevant

@@ -16,9 +16,10 @@ def main():
     #read data
     data = get_csv_data(DATA_DIR, "twitter_corpus.csv")
     normalize_tweets(data)
-    train_dataset, dev_dataset, test_dataset = get_datasets(data,0.8, fast_tokenizer)
+    train_dataset, dev_dataset, test_dataset, n_steps= get_datasets(data,0.8, fast_tokenizer)
+
     model = build_model(transformer_layer)
-    train_model(train_dataset, dev_dataset, model)
+    train_model(train_dataset, dev_dataset, model,n_steps)
 
     model.save("./model_saved/classifier_hf.h5")
 

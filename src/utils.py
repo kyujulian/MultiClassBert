@@ -2,7 +2,7 @@ import numpy as np
 
 def fast_encode(texts, tokenizer, chunk_size=256, maxlen=512):
     tokenizer.enable_truncation(max_length=maxlen)
-    tokenizer.enable_padding(max_length=maxlen)
+    tokenizer.enable_padding(length=maxlen)
 
     all_ids = []
     

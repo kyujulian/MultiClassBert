@@ -76,15 +76,15 @@ def split_dataset(data, train_ratio,fast_tokenizer , label_column="Sentiment", s
     test_labels = labels[val_idx :]
 
     if save_to_file:
-        pd.concat((train,dataframe_train_labels),axis=1).to_csv("../data/twitter_train.csv")
-        pd.concat((dev,dataframe_dev_labels),axis=1).to_csv("../data/twitter_dev.csv")
-        pd.concat((test,dataframe_test_labels),axis=1).to_csv("../data/twitter_test.csv")
+        pd.concat((train,dataframe_train_labels),axis=1).to_csv("./data/twitter_train.csv")
+        pd.concat((dev,dataframe_dev_labels),axis=1).to_csv("./data/twitter_dev.csv")
+        pd.concat((test,dataframe_test_labels),axis=1).to_csv("./data/twitter_test.csv")
 
 
 
-    train = fast_encode(train.astype(str), fast_tokenizer, maxlen=128)
-    test = fast_encode(test.astype(str), fast_tokenizer, maxlen=128)
-    dev = fast_encode(dev.astype(str), fast_tokenizer, maxlen=128)
+    train = fast_encode(train.TweetText.astype(str), fast_tokenizer, maxlen=128)
+    test = fast_encode(test.TweetText.astype(str), fast_tokenizer, maxlen=128)
+    dev = fast_encode(dev.TweetText.astype(str), fast_tokenizer, maxlen=128)
 
     return (train, train_labels, dev, dev_labels, test, test_labels)
 
@@ -93,6 +93,7 @@ def make_datasets(x_train, y_train,
                   x_dev, y_dev,
                   x_test, y_test):
 
+    n_steps = x_train.shape[0] // BATCH_SIZE
     train_dataset = (
     tf.data.Dataset
         .from_tensor_slices((x_train, y_train))
@@ -113,7 +114,10 @@ def make_datasets(x_train, y_train,
         .batch(BATCH_SIZE)
     )
 
-    return train_dataset, dev_dataset, test_dataset
+    return train_dataset, dev_dataset, test_dataset, n_steps
 
 def get_datasets(data,train_ratio,fast_tokenizer, label_column="Sentiment", save_to_file=True):
-    return make_datasets(*split_dataset(data,train_ratio,fast_tokenizer,label_column,save_to_file=save_to_file))
+
+    train, train_labels, dev, dev_labels, test, test_labels = split_dataset(data,train_ratio,fast_tokenizer,label_column,save_to_file=save_to_file)
+
+    return make_datasets(train, train_labels, dev, dev_labels, test, test_labels)

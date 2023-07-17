@@ -1,6 +1,7 @@
 from tensorflow.keras.layers import Dense, Input
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.models import Model
+from tensorflow.keras.losses import CategoricalCrossentropy
 
 from tokenizers import BertWordPieceTokenizer 
 
@@ -23,14 +24,15 @@ tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=LOG_DIR, histogram
 eartly_stopping_callback = tf.keras.callbacks.EarlyStopping(monitor='val_loss', patience=3) 
 
 CALLBACKS = [tensorboard_callback, eartly_stopping_callback]
-def build_model(transformer, max_len=512):
+
+def build_model(transformer, maxlen=512):
     '''
     Função para construir o modelo de classificação de sentimentos,
     utilizando o modelo BERT pré-treinado.
     '''
 
     #Camadas relacionadas ao modelo pre-treinado
-    input_word_ids = Input(shape=(max_len,), dtype=tf.int32, name="input_word_ids")
+    input_word_ids = Input(shape=(MAX_LEN,), dtype=tf.int32, name="input_word_ids")
     sequence_output = transformer(input_word_ids)[0]
     cls_token = sequence_output[:, 0, :]
     
@@ -40,16 +42,14 @@ def build_model(transformer, max_len=512):
     out = Dense(4, activation="softmax")(first_dense)
     
     model = Model(input_word_ids, out)
-    model.compile(Adam(learning_rate=1e-5), loss="categorical_crossentropy", metrics=["accuracy"])
+    model.compile(Adam(learning_rate=1e-5), loss=CategoricalCrossentropy(), metrics=["accuracy"])
 
     return model
 
     
-def train_model(train_dataset, dev_dataset, model, callbacks=CALLBACKS):
+def train_model(train_dataset, dev_dataset, model,n_steps, callbacks=CALLBACKS):
 
-    n_steps = train_dataset.shape[0] // BATCH_SIZE
     # Função definida no inicio do notebook
-
     train_history = model.fit(
         train_dataset,
         steps_per_epoch=n_steps,
