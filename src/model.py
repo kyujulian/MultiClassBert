@@ -13,7 +13,7 @@ from constants import *
 transformer_layer = (
     transformers.TFBertModel.from_pretrained('bert-base-multilingual-cased')
 )
-transformer_layer.trainable = false
+transformer_layer.trainable = False
 #Tokenizer
 #importando da hugging faces
 tokenizer = transformers.BertTokenizer.from_pretrained("bert-base-multilingual-cased")
