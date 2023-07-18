@@ -11,5 +11,5 @@ LOG_DIR = "./logs/fit" + datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
 LEARNING_RATE = 1e-5
 #Configurações do modelo
 EPOCHS=10
-BATCH_SIZE=16
+BATCH_SIZE=1
 MAX_LEN=128
